@@ -1,0 +1,495 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+/*NAV*/
+
+#mga{
+     width: 15%;
+     height: 15%;
+     margin: 0%;
+     padding: 0%;
+}
+.nav-link{
+    color: #A53F40;
+    margin-right: 10px;
+    font-family:'Merienda', cursive;
+    font-style: bold;
+    font-size: 18px;
+    padding: 10px;
+    width: 120px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: #CC6667;
+}
+/*MAIN*/
+
+h1{
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+    color: #CC6667;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+h2{
+    font-family: 'Courgette', cursive;
+    font-size: 39px;
+    color: #CC6667;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+h3{
+    font-family: 'Courgette', cursive;
+    font-size: 28px;
+    color: #CC6667;
+    text-align: left;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+h4{
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    color: #CC6667;
+    text-align: left;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    width: 400px;
+}
+.texto{
+    font-family: 'Merienda', cursive;
+    font-size: 18px;
+    color:#A53F40;
+    text-align: left;
+}
+/*INVESTIGACION*/
+#intro{
+    background-color: #D2797A;
+    margin-top: 30px;
+}
+#pc{
+    width: 50%;
+}
+.textintro{
+    color: white;
+    font-family: 'Merienda', cursive;
+    font-size: 18px;
+    text-align: left;
+}
+#h4{
+    font-family: 'Courgette', cursive;
+    font-size: 22px;
+    color: #CC6667;
+    text-align: left;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 400px;
+}
+#conver{
+    width: 35%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.card{
+    border: none;
+}
+/*PRODUCTO*/
+#etapas1{
+    margin-top: 60px;
+}
+/*CUANTITATIVAS*/
+#expedia{
+    width: 25%;
+    margin-top: -20px;
+}
+.subtext{
+    font-size: 28px;
+    color: #A53F40;
+    font-family: 'Merienda', cursive;
+}
+#booking{
+    width: 25%;
+    margin-top: -20px;
+}
+.cuadro{
+    border: 2px solid #A53F40;
+    margin-top: 50px;
+    padding: 20px;
+    justify-content: center;
+    font-family: 'Merienda', cursive;
+    font-size: 18px;
+    color:#A53F40;
+    text-align: left;
+}
+#hotel2{
+    width: 90%;
+}
+#cuadro3{
+    border: 2px solid #A53F40;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+#porcentaje{
+    margin-bottom: 0%;
+    margin-top: 20px;
+}
+#cuadro2{
+    background-color: rgba(204, 102, 103, 0.67);
+    border-radius: 20px;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+#cuadrotitulo{
+    font-size: 28px;
+    text-align: left;
+    color: #A53F40;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#textocuadro{
+    font-family: 'Courgette', cursive;
+    font-size: 18px;
+    color:white;
+    text-align: left;
+    padding-left: 20px;
+}
+/*ERRORES*/
+#etapas2{
+    margin-top: 50px;
+    width: 90%;
+}
+.subtext2{
+    font-size: 22px;
+    color: #A53F40;
+    font-family: 'Merienda', cursive;
+}
+#bookingerror{
+    width: 80%;
+}
+/*CUALITATIVAS*/
+#sus{
+    margin-top: 50px;
+}
+#referencia{
+    color: grey;
+}
+.subreferencia{
+    font-size: 28px;
+    color: grey;
+    font-family: 'Merienda', cursive;
+    margin-left: 150px;
+}
+.subreferencia2{
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 28px;
+    color: #A53F40;
+    font-family: 'Merienda', cursive;
+}
+#booking2{
+    width: 25%;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+#expedia2{
+    width: 25%;
+    margin-top: -20px;
+    margin-left: 120px;
+}
+#nps{
+    margin-top: 50px;
+}
+#cuadro4{
+    border: 2px solid #A53F40;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 190px;
+}
+#textocuadro2{
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    color:white;
+    text-align: left;
+    padding:30px;
+}
+#cuadro5{
+    background-color: rgba(204, 102, 103, 0.67);
+    border-radius: 20px;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+/*CONCLUCION*/
+#confinal{
+    margin-left: 90px;
+}
+#atras,h3,img{
+    display: inline-block;
+    text-align: left;
+}
+#atras a{
+    text-decoration: none;
+    color: #A53F40;
+}
+#atras a:hover{
+    text-decoration: underline;
+}
+#atras img{
+    width: 5%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#despues,h3,img{
+    display: inline-block;
+    text-align: right;
+    text-decoration: none;
+}
+#despues a{
+    text-decoration: none;
+    color: #A53F40;
+}
+#despues a:hover{
+    text-decoration: underline;
+}
+#despues img{
+    width: 5%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+/*FOOTER*/
+#contacto{
+    margin-top: 60px;
+    height: 150px;
+}
+#redes a{
+    width: 9%;
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+/*RICO APP*/
+/*HEADER*/
+#rico0{
+    width: 20%;
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+/*PRODUCTO*/
+#mining{
+    margin-bottom: 50px;
+}
+#conversacion{
+    margin-top: 30px;
+    border: solid 1px #A53F40;
+}
+#palabras{
+    margin-top: 40px;
+}
+#trip{
+    width: 40%;
+}
+#fork{
+    width: 40%;
+}
+#yelp{
+    width: 40%;
+}
+.optativo{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+}
+#home0{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+#home{
+    width: 70%;
+}
+#home2{
+    width: 67%;
+    margin-top: -10px;
+}
+#forkrestro{
+    width: 50%;
+}
+#filtro{
+    width: 70%;
+}
+#filtro2{
+    width: 65%;
+    margin-top: 5px;
+    margin-left: 30px; 
+    border: solid 1px black;
+}
+#filtro3{
+    width: 69%;
+    border: solid 1px black;
+}
+.optativo2{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    margin-right: 10px;
+}
+.optativo2b{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.optativo2c{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+#comentarios{
+    width: 70%;
+}
+#comentarios2{
+    width: 68%;
+    margin-top: 8px;
+    margin-left: 30px; 
+}
+#comentarios3{
+    width: 69%;
+}
+.optativo3{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.optativo3b{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    margin-left: 120px;
+}
+.optativo3c{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    margin-left: 120px;
+    margin-top: 5px;
+}
+/*USER PERSONA*/
+.nombre{
+    color: #A53F40;
+}
+#persona{
+    height: 500px;
+    margin-left: -300px;
+    margin-top: -30px;
+}
+#persona1{
+    width: 50%;
+}
+.opciones{
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    color: #CC6667;
+    text-align: left;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+}
+#mapa{
+    width: 60%;
+    border: solid 1px black;
+}
+/*VOZ Y TONO*/
+.voz{
+    font-family: 'Merienda', cursive;
+    font-size: 18px;
+    color:#A53F40;
+    text-align: justify;
+    margin-left: 30px;
+}
+/*MOOD MAP*/
+.titulomap{
+    font-family: 'Courgette', cursive;
+    font-size: 28px;
+    color: grey;
+    text-align: left;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+#mood{
+    border: solid 1px #A53F40;
+    width: 500px;
+    text-align: center;
+    margin-left: 500px;
+}
+.textomood{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:#A53F40;
+    text-align: center;
+    margin-left: 30px;
+}
+.textomood2{
+    font-family: 'Merienda', cursive;
+    font-size: 22px;
+    color:white;
+    text-align: center;
+    margin-left: 30px;
+}
+#titulomood{
+    font-size: 28px;
+    text-align: left;
+    color: #A53F40;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: -800px;
+    text-decoration: underline;
+}
+#cuadromood{
+    background-color: rgba(204, 102, 103, 0.67);
+    border-radius: 20px;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+/*FLUJOS*/
+#descargar2{
+    margin-top: 50px;
+}
+#descargar2 a{
+    background-color:#A53F40;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Merienda', cursive;
+    padding: 15px;
+    border:2px solid #A53F40;
+    border-radius: 30px;
+    margin-left: 400px;
+}
+#objetivoflujo{
+    margin-left: -200px;
+}
+/*CONCLUSION*/
+#conclusion2{
+    background-color: rgba(210, 121, 122, 0.37);
+}
+#conclutitulo{
+    margin-top: 20px;
+}
+
