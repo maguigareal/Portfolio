@@ -239,3 +239,81 @@ h3{
     display: block;
     margin-top: 200px;
 }
+
+/*INDEX RESPONSIVE*/
+@media (max-width: 576px){
+    #mga{
+        width: 15%;
+        height: 15%;
+        margin: 0%;
+        margin-left: 50px;
+        padding: 0%;
+    }
+    h1{
+        max-width: 500px;
+        margin-left: -35px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding: 0px;
+    }
+    h2{
+        font-size: 30px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        width: 400px;
+        padding: 0px;
+    }
+    h3{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        margin-left: 20px;
+        width: 400px;
+        padding: 0px;
+    }
+    #fotointro{
+        max-width: 250px;
+        max-height: 500px;
+        margin-top: 0px;
+        margin-left: 90px;
+        align-content: center;
+        padding: 0px;
+    }
+    #contactame{
+        padding: 10px;
+        margin-top: 50px;
+    }
+    /*CONSORCIO*/
+    #consorcio{
+    background: rgba(210, 121, 122, 0.37);
+    margin-top: 60px;
+    }
+    #consorcio img{
+    width: 20%;
+    display: inline-block;
+    padding-top: 20px;
+    align-content: center;
+    margin-left: 50px;
+    }
+    .titulo{
+    color: #A53F40;
+    font-size: 48px;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    }
+    .subtitulo{
+    color:#A53F40 ;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+    }
+    #verproyecto{
+    margin-top: -40px;
+    margin-left: -70px;
+    text-align: center;
+    }
+}
