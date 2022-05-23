@@ -289,6 +289,7 @@ h3{
     #consorcio{
     background: rgba(210, 121, 122, 0.37);
     margin-top: 60px;
+    max-width: 576px;
     }
     #consorcio img{
     width: 20%;
@@ -304,16 +305,18 @@ h3{
     margin-top: 50px;
     margin-bottom: 20px;
     padding-left: 50px;
+    margin-left: 80px;
     }
     .subtitulo{
     color:#A53F40 ;
     font-size: 18px;
     text-align: center;
     margin-top: 40px;
+    margin-left: 80px;
     }
     #verproyecto{
     margin-top: -40px;
-    margin-left: -70px;
+    margin-left: -30px;
     text-align: center;
     }
 }
