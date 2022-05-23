@@ -256,7 +256,7 @@ h3{
     }
     h1{
         max-width: 500px;
-        margin-left: -35px;
+        margin-left: 0px;
         margin-top: 50px;
         margin-bottom: 50px;
         padding: 0px;
@@ -276,15 +276,15 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 50px;
-        margin-left: 35px;
-        width: 400px;
+        margin-left: 0px;
+        width: 500px;
         padding: 0px;
     }
     #fotointro{
         max-width: 300px;
         max-height: 500px;
         margin-top: 0px;
-        margin-left: 90px;
+        margin-left: 60px;
         align-content: center;
         padding: 0px;
     }
@@ -302,29 +302,35 @@ h3{
     width: 30%;
     display: inline-block;
     padding-top: 10px;
-    margin-left: 0px;
+    margin-left: 5px;
     align-content: center;
     justify-content: center;
     }
     .titulo{
-    color: #A53F40;
     font-size: 48px;
     text-align: center;
     max-width: 576px;
+    padding: 0px;
     margin-top: 50px;
     margin-bottom: 20px;
+    margin-left: 0px;
     }
     .subtitulo{
-    color:#A53F40 ;
     font-size: 18px;
     text-align: center;
     max-width: 500px;
     margin-top: 40px;
-
+    margin-left: -10px;
+    margin-right: 0px;
     }
     #verproyecto{
+        max-width: 500px;
     margin-top: -40px;
     margin-left: -30px;
     text-align: center;
+    }
+    #verproyecto a{
+        margin-left: 80px;
+        justify-content: center;
     }
 }
