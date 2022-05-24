@@ -276,7 +276,7 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 5px;
+        margin-left: 10px;
         width: 300px;
         padding: 0px;
     }
@@ -302,7 +302,7 @@ h3{
         justify-content: center;
         margin-top: 50px;
         margin-left: 0px;
-        max-width: 350px;
+        max-width: 300px;
     }
     /*CONSORCIO*/
     #consorcio{
@@ -336,7 +336,7 @@ h3{
         margin-right: 0px;
     }
     #verproyecto{
-        max-width: 350px;
+        max-width: 300px;
         margin-top: -40px;
         margin-left: 10px;
         text-align: center;
@@ -448,10 +448,11 @@ h3{
         width: 576px;
     }
     #redes a{
-        width: 15%;
+        width: 25%;
         display: inline-block;
         padding-top: 20px;
         padding-left: 0px;
+        padding-right: 5px;
     }
 
     /*ACERCA DE */
