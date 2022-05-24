@@ -356,7 +356,7 @@ h3{
         padding-top: 20px;
     }
     .titulo2{
-        max-width: 400px;
+        max-width: 350px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
@@ -418,10 +418,10 @@ h3{
         margin-left: 0px;
     }
     #vertrabajos{
-        margin-left: -30px;
+        margin-left: 0px;
         margin-top: -250px;
         justify-content: center;
-        width: 576px;
+        width: 400px;
     }
     #vertrabajos a{
         border: 3px solid #A53F40 ;
@@ -444,9 +444,12 @@ h3{
         margin-top: 60px;
         height: 150px;
     }
+    #redes{
+        width: 576px;
+    }
     #redes a{
         width: 5%;
-        display: block;
+        display: inline-block;
         padding-top: 20px;
         padding-left: 0px;
     }
