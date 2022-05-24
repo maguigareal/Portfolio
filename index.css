@@ -317,11 +317,11 @@ h3{
         padding: 5px;
         justify-content: center;
         margin-top: 50px;
-        margin-left: 50px;
+        margin-left: 0px;
         max-width: 200px;
     }
     #contactame a{
-        margin-left: 170px;
+        margin-left: 130px;
     }
     /*CONSORCIO*/
     #consorcio{
