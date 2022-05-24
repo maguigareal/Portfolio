@@ -267,7 +267,7 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: 5px;
         width: 300px;
         padding: 0px;
     }
@@ -284,14 +284,16 @@ h3{
         max-width: 300px;
         max-height: 500px;
         margin-top: 0px;
-        margin-left: 40px;
+        margin-left: 30px;
         align-content: center;
         padding: 0px;
     }
     #contactame{
         padding: 10px;
+        justify-content: center;
         margin-top: 50px;
-        margin-left: 20px;
+        margin-left: 0px;
+        max-width: 576px;
     }
     /*CONSORCIO*/
     #consorcio{
