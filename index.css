@@ -301,7 +301,7 @@ h3{
         padding: 10px;
         justify-content: center;
         margin-top: 50px;
-        margin-left: -30px;
+        margin-left: -20px;
         max-width: 576px;
     }
     /*CONSORCIO*/
@@ -361,6 +361,7 @@ h3{
         text-align: center;
         margin-top: 50px;
         margin-bottom: 20px;
+        margin-left: 0px;
         padding-right: 0px;
     }
     /*ATRAPALO*/
