@@ -338,7 +338,7 @@ h3{
     #verproyecto{
         max-width: 280px;
         margin-top: -40px;
-        margin-left: 10px;
+        margin-left: 0px;
         text-align: center;
     }
     #verproyecto a{
@@ -419,7 +419,7 @@ h3{
     }
     #vertrabajos{
         margin-left: 0px;
-        margin-top: -250px;
+        margin-top: -280px;
         justify-content: center;
         width: 300px;
     }
