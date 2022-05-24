@@ -301,7 +301,7 @@ h3{
         padding: 10px;
         justify-content: center;
         margin-top: 50px;
-        margin-left: -20px;
+        margin-left: 0px;
         max-width: 576px;
     }
     /*CONSORCIO*/
@@ -321,7 +321,7 @@ h3{
     .titulo{
         font-size: 48px;
         text-align: center;
-        max-width: 450px;
+        max-width: 400px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
@@ -330,7 +330,7 @@ h3{
     .subtitulo{
         font-size: 18px;
         text-align: center;
-        max-width: 400px;
+        max-width: 350px;
         margin-top: 40px;
         margin-left: -10px;
         margin-right: 0px;
@@ -356,7 +356,7 @@ h3{
         padding-top: 20px;
     }
     .titulo2{
-        max-width: 450px;
+        max-width: 400px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
@@ -418,9 +418,10 @@ h3{
         margin-left: 0px;
     }
     #vertrabajos{
-        margin-left: -30px;
+        margin-left: 0px;
         margin-top: -250px;
         justify-content: center;
+        width: 576px;
     }
     #vertrabajos a{
         border: 3px solid #A53F40 ;
@@ -444,8 +445,8 @@ h3{
         height: 150px;
     }
     #redes a{
-        width: 50%;
-        display: block;
+        width: 20%;
+        display: inline-block;
         padding-top: 20px;
         padding-left: 60px;
     }
