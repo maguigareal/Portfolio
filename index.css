@@ -276,7 +276,7 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 10px;
+        margin-left: 15px;
         width: 300px;
         padding: 0px;
     }
@@ -302,7 +302,7 @@ h3{
         justify-content: center;
         margin-top: 50px;
         margin-left: 0px;
-        max-width: 300px;
+        max-width: 250px;
     }
     /*CONSORCIO*/
     #consorcio{
@@ -336,7 +336,7 @@ h3{
         margin-right: 0px;
     }
     #verproyecto{
-        max-width: 300px;
+        max-width: 250px;
         margin-top: -40px;
         margin-left: 10px;
         text-align: center;
@@ -421,7 +421,7 @@ h3{
         margin-left: 0px;
         margin-top: -250px;
         justify-content: center;
-        width: 350px;
+        width: 300px;
     }
     #vertrabajos a{
         border: 3px solid #A53F40 ;
@@ -448,7 +448,7 @@ h3{
         width: 576px;
     }
     #redes a{
-        width: 25%;
+        width: 20%;
         display: inline-block;
         padding-top: 20px;
         padding-left: 0px;
