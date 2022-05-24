@@ -298,11 +298,11 @@ h3{
         padding: 0px;
     }
     #contactame{
-        padding: 10px;
+        padding: 5px;
         justify-content: center;
         margin-top: 50px;
         margin-left: 0px;
-        max-width: 250px;
+        max-width: 200px;
     }
     /*CONSORCIO*/
     #consorcio{
@@ -336,7 +336,7 @@ h3{
         margin-right: 0px;
     }
     #verproyecto{
-        max-width: 250px;
+        max-width: 280px;
         margin-top: -40px;
         margin-left: 10px;
         text-align: center;
