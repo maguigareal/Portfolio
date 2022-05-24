@@ -277,7 +277,7 @@ h3{
         margin-top: 20px;
         margin-bottom: 50px;
         margin-left: 0px;
-        width: 450px;
+        width: 400px;
         padding: 0px;
     }
     #fotointro{
@@ -326,7 +326,7 @@ h3{
     #verproyecto{
         max-width: 500px;
         margin-top: -40px;
-        margin-left: 60px;
+        margin-left: 50px;
         text-align: center;
     }
     #verproyecto a{
@@ -405,6 +405,8 @@ h3{
 }
 #vertrabajos{
     margin-left: 0px;
+    margin-top: -250px;
+    justify-content: center;
 }
 #vertrabajos a{
     border: 3px solid #A53F40 ;
@@ -413,7 +415,7 @@ h3{
     font-family: 'Merienda', cursive;
     padding: 10px;
     border-radius: 20px;
-    margin-left: 0px;
+    margin-left: 150px;
 }
 #vertrabajos a:hover{
     background-color: #A53F40 ;
