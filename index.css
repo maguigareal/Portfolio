@@ -11,7 +11,17 @@
      margin: 0%;
      padding: 0%;
 }
-.nav-link{
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #A53F40;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    text-decoration: underline;
+    color: #CC6667;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #A53F40;
+}
+.nav-item a{
     color: #A53F40;
     margin-right: 10px;
     font-family:'Merienda', cursive;
@@ -20,9 +30,12 @@
     padding: 10px;
     width: 120px;
 }
-.nav-link:hover{
-    text-decoration: underline;
-    color: #CC6667;
+.navbar-light .navbar-toggler {
+    color: #A53F40;
+    border-color: #A53F40;
+}
+.navbar-toggle-icon {
+    color: #A53F40;
 }
 /*MAIN*/
 
@@ -260,8 +273,11 @@ h3{
         width: 15%;
         height: 15%;
         margin: 0%;
-        margin-left: 50px;
+        margin-left: 0px;
         padding: 0%;
+    }
+    .container-fluid{
+        display: inline-block;
     }
     h1{
         max-width: 500px;
@@ -303,6 +319,9 @@ h3{
         margin-top: 50px;
         margin-left: 0px;
         max-width: 200px;
+    }
+    #contactame a{
+        margin-left: 0px;
     }
     /*CONSORCIO*/
     #consorcio{
@@ -419,7 +438,7 @@ h3{
     }
     #vertrabajos{
         margin-left: 0px;
-        margin-top: -280px;
+        margin-top: -220px;
         justify-content: center;
         width: 300px;
     }
@@ -452,7 +471,7 @@ h3{
         display: inline-block;
         padding-top: 20px;
         padding-left: 0px;
-        padding-right: 5px;
+        padding-right: 10px;
     }
 
     /*ACERCA DE */
