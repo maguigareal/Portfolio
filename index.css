@@ -83,16 +83,23 @@ h3{
 .titulo{
     color: #A53F40;
     font-size: 48px;
-    text-align: left;
+    text-align: center;
     margin-top: 50px;
     margin-bottom: 20px;
     padding-left: 50px;
+    width: 500px;
 }
 .subtitulo{
     color:#A53F40 ;
     font-size: 18px;
     text-align: center;
     margin-top: 40px;
+    width: 500px;
+}
+#verproyecto{
+    justify-content: center;
+    align-content: center;
+    margin-left: 50px;
 }
 #verproyecto a{
     border: 3px solid #A53F40;
@@ -123,7 +130,9 @@ h3{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 20px;
+    margin-left: 150px;
     padding-right: 80px;
+    width: 500px;
 }
 /*BOOKING VS EXPEDIA*/
 #booking{
@@ -292,7 +301,7 @@ h3{
         padding: 10px;
         justify-content: center;
         margin-top: 50px;
-        margin-left: 0px;
+        margin-left: -30px;
         max-width: 576px;
     }
     /*CONSORCIO*/
@@ -385,107 +394,107 @@ h3{
         display: inline-block;
         padding-top: 20px;
     }
-/*BONUS TRACK*/
-#bonus{
-    background-color: rgba(204, 102, 103, 0.67);
-    margin-top: 60px;
-    height: 250px;
-    max-width: 576px;
-}
-.titulo3{
-    color: #A53F40;
-    font-size: 48px;
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 20px;
-    padding-left: 30px;
-}
-.subtitulo3{
-    color:white;
-    font-size: 18px;
-    text-align: center;
-    margin-top: 40px;
-    margin-left: 0px;
-}
-#vertrabajos{
-    margin-left: -20px;
-    margin-top: -250px;
-    justify-content: center;
-}
-#vertrabajos a{
-    border: 3px solid #A53F40 ;
-    color: white;
-    text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border-radius: 20px;
-    margin-left: 50px;
-}
-#vertrabajos a:hover{
-    background-color: #A53F40 ;
-    color: white;
-}
-#trabajos{
-    margin-top: 100px;
-}
-/*FOOTER*/
-#contacto{
-    margin-top: 60px;
-    height: 150px;
-}
-#redes a{
-    width: 9%;
-    display: inline-block;
-    padding-top: 20px;
-    padding-left: 60px;
-}
+    /*BONUS TRACK*/
+    #bonus{
+        background-color: rgba(204, 102, 103, 0.67);
+        margin-top: 60px;
+        height: 250px;
+        max-width: 576px;
+    }
+    .titulo3{
+        color: #A53F40;
+        font-size: 48px;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        padding-left: 30px;
+    }
+    .subtitulo3{
+        color:white;
+        font-size: 18px;
+        text-align: center;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    #vertrabajos{
+        margin-left: -20px;
+        margin-top: -250px;
+        justify-content: center;
+    }
+    #vertrabajos a{
+        border: 3px solid #A53F40 ;
+        color: white;
+        text-decoration: none;
+        font-family: 'Merienda', cursive;
+        padding: 10px;
+        border-radius: 20px;
+        margin-left: 50px;
+    }
+    #vertrabajos a:hover{
+        background-color: #A53F40 ;
+        color: white;
+    }
+    #trabajos{
+        margin-top: 100px;
+    }
+    /*FOOTER*/
+    #contacto{
+        margin-top: 60px;
+        height: 150px;
+    }
+    #redes a{
+        width: 50%;
+        display: block;
+        padding-top: 20px;
+        padding-left: 60px;
+    }
 
-/*ACERCA DE */
-#hola{
-    color: #CC6667;
-    font-size: 48px;
-    margin-top: 50px;
-    margin-bottom: 20px;
-    padding-left: 50px;
-}
-.texto1{
-    margin: 50px;
-    font-family: 'Courgette', cursive;
-    font-size: 18px;
-    color: #A53F40;
-}
-#textos{
-    margin-left: 0px;
-}
-#masinfo p{
-    margin: 50px;
-    font-family: 'Courgette', cursive;
-    font-size: 18px;
-    color: #A53F40;
-}
-#descargar a{
-    background-color: #CC6667;
-    color: white;
-    text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border-radius: 20px;
-    margin-left: 240px;
-    text-align: center;
-}
-#contacto .row{
-    margin: 0%;
+    /*ACERCA DE */
+    #hola{
+        color: #CC6667;
+        font-size: 48px;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        padding-left: 50px;
+    }
+    .texto1{
+        margin: 50px;
+        font-family: 'Courgette', cursive;
+        font-size: 18px;
+        color: #A53F40;
+    }
+    #textos{
+        margin-left: 0px;
+    }
+    #masinfo p{
+        margin: 50px;
+        font-family: 'Courgette', cursive;
+        font-size: 18px;
+        color: #A53F40;
+    }
+    #descargar a{
+        background-color: #CC6667;
+        color: white;
+        text-decoration: none;
+        font-family: 'Merienda', cursive;
+        padding: 10px;
+        border-radius: 20px;
+        margin-left: 240px;
+        text-align: center;
+    }
+    #contacto .row{
+        margin: 0%;
 
-}
-#pajaros{
-    margin: 0%;
-    padding: 0%;
-}
-#pajaros img{
-    width: 65%;
-    padding: 0%;
-    display: block;
-    margin-top: 200px;
-}
+    }
+    #pajaros{
+        margin: 0%;
+        padding: 0%;
+    }
+    #pajaros img{
+        width: 65%;
+        padding: 0%;
+        display: block;
+        margin-top: 200px;
+    }
 
 }
