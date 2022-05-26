@@ -524,19 +524,24 @@ h3{
 
 }
 /*INDEX RESPONSIVE*/
-@media (max-width: 768px){
+@media (max-width: 1000px){
     *{
         padding: 0%;
         margin: 0%;
-        max-width: 768px;
+        max-width: 1000px;
     } 
+    .container-fluid{
+        display: inline-block;
+        padding-right: 0px;
+    }
     h1{
-        max-width: 600px;
+        width: 800px;
         margin-left: 0px;
         margin-top: 50px;
         margin-bottom: 50px;
         padding: 0px;
         text-align: center;
+        justify-content: center;
     }
     h2{
         font-size: 30px;
@@ -545,7 +550,7 @@ h3{
         margin-top: 20px;
         margin-bottom: 20px;
         margin-left: 15px;
-        width: 580px;
+        width: 500px;
         padding: 0px;
     }
     h3{
@@ -554,12 +559,12 @@ h3{
         margin-top: 20px;
         margin-bottom: 50px;
         margin-left: 30px;
-        width: 580px;
+        width: 500px;
         padding: 0px;
     }
     #fotointro{
-        max-width: 500px;
-        max-height: 700px;
+        max-width: 400px;
+        max-height: 300px;
         margin-top: 0px;
         margin-left: 30px;
         align-content: center;
@@ -569,9 +574,9 @@ h3{
         padding: 5px;
         justify-content: center;
         text-align: center;
-        margin-top: 50px;
+        margin-top: -150px;
         margin-left: 0px;
-        width: 500px;
+        width: 400px;
     }
     #contactame a{
         margin-left: 130px;
@@ -581,7 +586,7 @@ h3{
      #consorcio{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 768px;
+        max-width: 1000px;
     }
     #consorcio img{
         width: 30%;
@@ -611,7 +616,7 @@ h3{
         margin-right: 0px;
     }
     #verproyecto{
-        width: 500px;
+        width: 400px;
         margin-top: -40px;
         margin-left: 0px;
         text-align: center;
@@ -624,7 +629,7 @@ h3{
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        width: 768px;
+        width: 1000px;
     }
     #atrapalo img{
         width: 60%;
@@ -643,7 +648,7 @@ h3{
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        width: 768px;
+        width: 1000px;
     }
     #atrapalo img{
         width: 70%;
@@ -653,17 +658,17 @@ h3{
     #booking{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 768px;
+        max-width: 1000px;
     }
     #booking img{
-        width: 50%;
+        width: 70%;
         padding-top: 10px;
     }
     /*RICO APP*/
     #rico{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        width: 768px;
+        width: 1000px;
     }
     #rico img{
         width: 30%;
@@ -675,7 +680,7 @@ h3{
         background-color: rgba(204, 102, 103, 0.67);
         margin-top: 60px;
         height: 250px;
-        width: 768px;
+        width: 1000px;
     }
     .titulo3{
         color: #A53F40;
@@ -693,10 +698,10 @@ h3{
         margin-left: 0px;
     }
     #vertrabajos{
-        margin-left: 0px;
-        margin-top: -230px;
+        margin-left: 20px;
+        margin-top: 0px;
         justify-content: center;
-        width: 300px;
+        width: 350px;
     }
     #vertrabajos a{
         border: 3px solid #A53F40 ;
@@ -720,10 +725,10 @@ h3{
         height: 150px;
     }
     #redes{
-        width: 768px;
+        width: 1000px;
     }
     #redes a{
-        width: 15%;
+        width: 25%;
         display: inline-block;
         padding-top: 20px;
         padding-left: 0px;
