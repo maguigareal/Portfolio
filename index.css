@@ -318,10 +318,10 @@ h3{
         justify-content: center;
         margin-top: 50px;
         margin-left: 0px;
-        max-width: 200px;
+        width: 200px;
     }
     #contactame a{
-        margin-left: 130px;
+        margin-left: 0px;
     }
     /*CONSORCIO*/
     #consorcio{
@@ -520,6 +520,214 @@ h3{
         padding: 0%;
         display: block;
         margin-top: 200px;
+    }
+
+}
+/*INDEX RESPONSIVE*/
+@media (max-width: 768px){
+    *{
+        padding: 0%;
+        margin: 0%;
+        max-width: 768px;
+    } 
+    h1{
+        max-width: 600px;
+        margin-left: 0px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding: 0px;
+        text-align: center;
+    }
+    h2{
+        font-size: 30px;
+        text-align: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 15px;
+        width: 580px;
+        padding: 0px;
+    }
+    h3{
+        text-align: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        margin-left: 30px;
+        width: 580px;
+        padding: 0px;
+    }
+    #fotointro{
+        max-width: 500px;
+        max-height: 700px;
+        margin-top: 0px;
+        margin-left: 30px;
+        align-content: center;
+        padding: 0px;
+    }
+    #contactame{
+        padding: 5px;
+        justify-content: center;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 0px;
+        width: 500px;
+    }
+    #contactame a{
+        margin-left: 130px;
+        text-align: center;
+    }
+     /*CONSORCIO*/
+     #consorcio{
+        background: rgba(210, 121, 122, 0.37);
+        margin-top: 60px;
+        max-width: 768px;
+    }
+    #consorcio img{
+        width: 30%;
+        display: inline-block;
+        padding-top: 10px;
+        margin-left: 5px;
+        align-content: center;
+        justify-content: center;
+    }
+    .titulo{
+        font-size: 48px;
+        text-align: center;
+        justify-content: center;
+        width: 550px;
+        padding: 0px;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+    .subtitulo{
+        font-size: 18px;
+        text-align: center;
+        justify-content: center;
+        width: 600px;
+        margin-top: 40px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    #verproyecto{
+        width: 550px;
+        margin-top: -40px;
+        margin-left: 0px;
+        text-align: center;
+    }
+    #verproyecto a{
+        margin-left: 100px;
+        justify-content: center;
+    }
+    /*ATRAPALO*/
+    #atrapalo{
+        background: rgba(210, 121, 122, 0.37);
+        margin-top: 60px;
+        width: 768px;
+    }
+    #atrapalo img{
+        width: 60%;
+        padding-top: 20px;
+    }
+    .titulo2{
+        width: 700px;
+        font-size: 48px;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        margin-left: 0px;
+        padding-right: 0px;
+    }
+    /*ATRAPALO*/
+    #atrapalo{
+        background: rgba(210, 121, 122, 0.37);
+        margin-top: 60px;
+        width: 768px;
+    }
+    #atrapalo img{
+        width: 70%;
+        padding-top: 20px;
+    }
+    /*BOOKING VS EXPEDIA*/
+    #booking{
+        background: rgba(210, 121, 122, 0.37);
+        margin-top: 60px;
+        max-width: 576px;
+    }
+    #booking img{
+        width: 50%;
+        padding-top: 10px;
+    }
+    /*RICO APP*/
+    #rico{
+        background: rgba(210, 121, 122, 0.37);
+        margin-top: 60px;
+        width: 768px;
+    }
+    #rico img{
+        width: 30%;
+        display: inline-block;
+        padding-top: 20px;
+    }
+    /*BONUS TRACK*/
+    #bonus{
+        background-color: rgba(204, 102, 103, 0.67);
+        margin-top: 60px;
+        height: 250px;
+        width: 768px;
+    }
+    .titulo3{
+        color: #A53F40;
+        font-size: 48px;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        padding-left: 30px;
+    }
+    .subtitulo3{
+        color:white;
+        font-size: 18px;
+        text-align: center;
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    #vertrabajos{
+        margin-left: 0px;
+        margin-top: -230px;
+        justify-content: center;
+        width: 300px;
+    }
+    #vertrabajos a{
+        border: 3px solid #A53F40 ;
+        color: white;
+        text-decoration: none;
+        font-family: 'Merienda', cursive;
+        padding: 10px;
+        border-radius: 20px;
+        margin-left: 50px;
+    }
+    #vertrabajos a:hover{
+        background-color: #A53F40 ;
+        color: white;
+    }
+    #trabajos{
+        margin-top: 100px;
+    }
+    /*FOOTER*/
+    #contacto{
+        margin-top: 60px;
+        height: 150px;
+    }
+    #redes{
+        width: 768px;
+    }
+    #redes a{
+        width: 15%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-left: 0px;
+        padding-right: 15px;
     }
 
 }
