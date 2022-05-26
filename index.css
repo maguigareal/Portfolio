@@ -600,7 +600,7 @@ h3{
         font-size: 48px;
         text-align: center;
         justify-content: center;
-        width: 400px;
+        width: 350px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
@@ -610,14 +610,14 @@ h3{
         font-size: 18px;
         text-align: center;
         justify-content: center;
-        width: 400px;
+        width: 350px;
         margin-top: 40px;
         margin-left: 0px;
         margin-right: 0px;
     }
     #verproyecto{
         width: 350px;
-        margin-top: -40px;
+        margin-top: -50px;
         margin-left: 0px;
         text-align: center;
     }
@@ -636,7 +636,7 @@ h3{
         padding-top: 20px;
     }
     .titulo2{
-        width: 400px;
+        width: 3500px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
