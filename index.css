@@ -523,7 +523,7 @@ h3{
     }
 
 }
-/*INDEX RESPONSIVE*/
+/*INDEX RESPONSIVE
 @media (max-width: 1024px){
     *{
         padding: 0%;
@@ -583,7 +583,7 @@ h3{
         margin-left: 130px;
         text-align: center;
     }
-     /*CONSORCIO*/
+     /*CONSORCIO
      #consorcio{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
@@ -601,7 +601,7 @@ h3{
         font-size: 48px;
         text-align: center;
         justify-content: center;
-        width: 350px;
+        width: 0px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
@@ -626,7 +626,7 @@ h3{
         margin-left: 100px;
         justify-content: center;
     }
-    /*ATRAPALO*/
+    /*ATRAPALO
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
@@ -645,7 +645,7 @@ h3{
         margin-left: -50px;
         padding-right: 0px;
     }
-    /*ATRAPALO*/
+    /*ATRAPALO
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
@@ -655,7 +655,7 @@ h3{
         width: 70%;
         padding-top: 20px;
     }
-    /*BOOKING VS EXPEDIA*/
+    /*BOOKING VS EXPEDIA
     #booking{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
@@ -665,7 +665,7 @@ h3{
         width: 70%;
         padding-top: 10px;
     }
-    /*RICO APP*/
+    /*RICO APP
     #rico{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
@@ -676,7 +676,7 @@ h3{
         display: inline-block;
         padding-top: 20px;
     }
-    /*BONUS TRACK*/
+    /*BONUS TRACK
     #bonus{
         background-color: rgba(204, 102, 103, 0.67);
         margin-top: 60px;
@@ -720,7 +720,7 @@ h3{
     #trabajos{
         margin-top: 100px;
     }
-    /*FOOTER*/
+    /*FOOTER
     #contacto{
         margin-top: 60px;
         height: 300px;
