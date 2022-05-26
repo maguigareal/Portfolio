@@ -595,7 +595,7 @@ h3{
         font-size: 48px;
         text-align: center;
         justify-content: center;
-        width: 550px;
+        width: 500px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
@@ -605,13 +605,13 @@ h3{
         font-size: 18px;
         text-align: center;
         justify-content: center;
-        width: 600px;
+        width: 500px;
         margin-top: 40px;
         margin-left: 0px;
         margin-right: 0px;
     }
     #verproyecto{
-        width: 550px;
+        width: 500px;
         margin-top: -40px;
         margin-left: 0px;
         text-align: center;
@@ -631,7 +631,7 @@ h3{
         padding-top: 20px;
     }
     .titulo2{
-        width: 700px;
+        width: 500px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
@@ -653,7 +653,7 @@ h3{
     #booking{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 576px;
+        max-width: 768px;
     }
     #booking img{
         width: 50%;
