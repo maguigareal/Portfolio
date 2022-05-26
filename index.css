@@ -576,7 +576,7 @@ h3{
     #consorcio{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 576px;
+        max-width: 1024px;
     }
     #consorcio img{
         width: 30%;
@@ -587,18 +587,18 @@ h3{
         justify-content: center;
     }
     .titulo{
-        font-size: 45px;
+        font-size: 48px;
         text-align: center;
-        max-width: 350px;
+        max-width: 300px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
         margin-left: 0px;
     }
     .subtitulo{
-        font-size: 16px;
+        font-size: 18px;
         text-align: center;
-        max-width: 350px;
+        max-width: 30px;
         margin-top: 40px;
         margin-left: -10px;
         margin-right: 0px;
@@ -617,14 +617,14 @@ h3{
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 576px;
+        max-width: 1024px;
     }
     #atrapalo img{
         width: 70%;
         padding-top: 20px;
     }
     .titulo2{
-        max-width: 350px;
+        max-width: 30px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
@@ -636,7 +636,7 @@ h3{
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 576px;
+        max-width: 1024px;
     }
     #atrapalo img{
         width: 70%;
@@ -646,7 +646,7 @@ h3{
     #booking{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 576px;
+        max-width: 1024px;
     }
     #booking img{
         width: 80%;
@@ -668,7 +668,7 @@ h3{
         background-color: rgba(204, 102, 103, 0.67);
         margin-top: 60px;
         height: 250px;
-        max-width: 576px;
+        max-width: 1024px;
     }
     .titulo3{
         color: #A53F40;
@@ -713,7 +713,7 @@ h3{
         height: 150px;
     }
     #redes{
-        width: 576px;
+        max-width: 1024px;
     }
     #redes a{
         width: 20%;
