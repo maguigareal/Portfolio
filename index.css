@@ -572,6 +572,7 @@ h3{
     }
     #contactame{
         padding: 5px;
+        padding-top: -100px;
         justify-content: center;
         text-align: center;
         margin-top: -180px;
@@ -600,19 +601,19 @@ h3{
         font-size: 48px;
         text-align: center;
         justify-content: center;
-        width: 300px;
+        width: 400px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: -50px;
     }
     .subtitulo{
         font-size: 18px;
         text-align: center;
         justify-content: center;
-        width: 300px;
+        width: 400px;
         margin-top: 40px;
-        margin-left: 0px;
+        margin-left: -50px;
         margin-right: 0px;
     }
     #verproyecto{
@@ -636,19 +637,19 @@ h3{
         padding-top: 20px;
     }
     .titulo2{
-        width: 300px;
+        width: 400px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: -50px;
         padding-right: 0px;
     }
     /*ATRAPALO*/
     #atrapalo{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        width: 1000px;
+        width: 1024px;
     }
     #atrapalo img{
         width: 70%;
@@ -658,7 +659,7 @@ h3{
     #booking{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        max-width: 1000px;
+        max-width: 1024px;
     }
     #booking img{
         width: 70%;
@@ -668,7 +669,7 @@ h3{
     #rico{
         background: rgba(210, 121, 122, 0.37);
         margin-top: 60px;
-        width: 1000px;
+        width: 1024px;
     }
     #rico img{
         width: 30%;
@@ -680,7 +681,7 @@ h3{
         background-color: rgba(204, 102, 103, 0.67);
         margin-top: 60px;
         height: 250px;
-        width: 1000px;
+        width: 1024px;
     }
     .titulo3{
         color: #A53F40;
