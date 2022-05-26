@@ -601,19 +601,19 @@ h3{
         font-size: 48px;
         text-align: center;
         justify-content: center;
-        width: 400px;
+        width: 350px;
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
-        margin-left: -50px;
+        margin-left: -80px;
     }
     .subtitulo{
         font-size: 18px;
         text-align: center;
         justify-content: center;
-        width: 400px;
+        width: 300px;
         margin-top: 40px;
-        margin-left: -50px;
+        margin-left: 0px;
         margin-right: 0px;
     }
     #verproyecto{
@@ -723,13 +723,13 @@ h3{
     /*FOOTER*/
     #contacto{
         margin-top: 60px;
-        height: 150px;
+        height: 300px;
     }
     #redes{
-        width: 1000px;
+        width: 1024px;
     }
     #redes a{
-        width: 15%;
+        width: 20%;
         display: inline-block;
         padding-top: 20px;
         padding-left: 0px;
