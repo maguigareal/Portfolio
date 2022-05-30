@@ -759,9 +759,10 @@ h3{
         text-decoration: none;
         font-family: 'Merienda', cursive;
         padding: 10px;
-        border-radius: 20px;
+        border-radius: 50px;
         margin-left: 90px;
         text-align: center;
+        width: 250px;
     }
     #contacto .row{
         margin: 0%;
