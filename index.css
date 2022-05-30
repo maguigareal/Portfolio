@@ -709,7 +709,7 @@ h3{
         color: white;
     }
     #trabajos{
-        margin-top: -20px;
+        margin-top: 10px;
     }
     /*FOOTER*/
     #contacto{
@@ -743,7 +743,7 @@ h3{
     }
     #textos{
         margin-left: 0px;
-        width: 400px;
+        width: 450px;
     }
     #masinfo p{
         margin: 50px;
@@ -759,7 +759,7 @@ h3{
         font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
-        margin-left: 100px;
+        margin-left: 90px;
         text-align: center;
     }
     #contacto .row{
