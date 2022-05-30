@@ -254,12 +254,14 @@ h3{
 #pajaros{
     margin: 0%;
     padding: 0%;
+    justify-content: center;
 }
 #pajaros img{
     width: 65%;
     padding: 0%;
     display: block;
     margin-top: 200px;
+    margin-left: 50px;
 }
 
 /*INDEX RESPONSIVE*/
