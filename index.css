@@ -606,7 +606,7 @@ h3{
     }
     #verproyecto{
         max-width: 280px;
-        margin-top: -40px;
+        margin-top: -100px;
         margin-left: 0px;
         text-align: center;
     }
@@ -746,6 +746,7 @@ h3{
         font-family: 'Courgette', cursive;
         font-size: 18px;
         color: #A53F40;
+        width: 0%;
     }
     #descargar a{
         background-color: #CC6667;
@@ -754,7 +755,7 @@ h3{
         font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
-        margin-left: 220px;
+        margin-left: 200px;
         text-align: center;
     }
     #contacto .row{
@@ -765,7 +766,7 @@ h3{
         padding: 0%;
     }
     #pajaros img{
-        width: 50%;
+        width: 60%;
         padding: 0%;
         display: block;
         justify-content: center;
