@@ -480,6 +480,7 @@ h3{
     }
     #textos{
         margin-left: 0px;
+        width: 0px;
     }
     #masinfo p{
         margin: 50px;
@@ -690,7 +691,7 @@ h3{
     }
     #vertrabajos{
         margin-left: 0px;
-        margin-top: -100px;
+        margin-top: -80px;
         justify-content: center;
         width: 300px;
     }
@@ -742,6 +743,7 @@ h3{
     }
     #textos{
         margin-left: 0px;
+        width: 200px;
     }
     #masinfo p{
         margin: 50px;
