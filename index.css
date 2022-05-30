@@ -484,6 +484,7 @@ h3{
         font-family: 'Courgette', cursive;
         font-size: 18px;
         color: #A53F40;
+        width: 500px;
     }
     #descargar a{
         background-color: #CC6667;
@@ -492,7 +493,7 @@ h3{
         font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
-        margin-left: 240px;
+        margin-left: 150px;
         text-align: center;
     }
     #contacto .row{
@@ -753,22 +754,23 @@ h3{
         font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
-        margin-left: 240px;
+        margin-left: 220px;
         text-align: center;
     }
     #contacto .row{
         margin: 0%;
-
     }
     #pajaros{
         margin: 0%;
         padding: 0%;
     }
     #pajaros img{
-        width: 65%;
+        width: 50%;
         padding: 0%;
         display: block;
-        margin-top: 200px;
+        justify-content: center;
+        margin-top: 100px;
+        margin-left: 160px;
     }
 
 }
