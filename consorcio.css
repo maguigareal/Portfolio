@@ -660,6 +660,9 @@ h4{
     margin-top: 80px;
     width: 576px;
 }
+#conclusion{
+    width: 576px;
+}
 #final{
     display: inline-block;
     height: 100px;
@@ -667,7 +670,6 @@ h4{
 #atras,h3,img{
     display: inline-block;
     text-align: left;
-    padding-top: -200px;
 }
 #atras a{
     text-decoration: none;
@@ -685,7 +687,7 @@ h4{
     display: inline-block;
     text-align: right;
     text-decoration: none;
-    padding-top: 0px;
+    padding-top: -200px;
 }
 #despues a{
     text-decoration: none;
