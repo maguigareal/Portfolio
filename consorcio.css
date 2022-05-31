@@ -534,6 +534,8 @@ h4{
         margin-top: 25px;
         margin-bottom: 30px;
         background-color: rgba(210, 121, 122, 0.37);
+        margin-right: 0px;
+        width: 576px;
     }
     #nueva{
         text-align: left;
@@ -585,7 +587,7 @@ h4{
     }
     #descargar{
     width: 576px;
-    margin-left: -80px; 
+    margin-left: -100px; 
     margin-top: 30px;
     }
     #descargar a{
@@ -621,15 +623,15 @@ h4{
         margin-top: 80px;
     }
     #prototipo1{
-        width: 60%;
+        width: 80%;
         margin-bottom: 30px;
     }
     #prototipo3{
-        width: 60%;
+        width: 80%;
         margin-bottom: 30px;
     }
     #prototipo3d{
-        width: 50%;
+        width: 80%;
         margin-bottom: 30px;
     }
     /*PROTOTIPO FINAL*/
@@ -652,7 +654,7 @@ h4{
         border-radius: 30px;
         margin-left: 20px;
     }
-/*CONCLUSION*/
+/*CONCLUCION*/
 #conclusion0{
     background-color: rgba(210, 121, 122, 0.37);
     margin-top: 80px;
