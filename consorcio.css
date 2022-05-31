@@ -464,7 +464,7 @@ h4{
         color: #CC6667;
         text-align: center;
         margin-top: 50px;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
     h2{
         font-family: 'Courgette', cursive;
@@ -472,7 +472,7 @@ h4{
         color: #CC6667;
         text-align: center;
         margin-top: 100px;
-        margin-bottom: 30px;
+        margin-bottom: 0px;
     }
     h3{
         font-family: 'Courgette', cursive;
@@ -491,7 +491,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 400px;
+        width: 250px;
     }
     .texto{
         font-family: 'Merienda', cursive;
@@ -503,21 +503,16 @@ h4{
     /*INVESTIGACION*/
     #diamante{
         margin-bottom: 50px;
-    }
-    #protopersonas{
-        border: 2px solid #A53F40;
-        justify-content: center;
-        width: 100%;
-        margin-bottom: 50px;
+        margin-top: 0px;
     }
     #entrevista1{
         border: 2px solid #A53F40;
         justify-content: center;
-        width: 100%;
+        width: 50%;
         margin-bottom: 50px;
     }
     #entrevista{
-        width: 100%;
+        width: 50%;
         margin-bottom: 50px;
     }
     #nuevahipo{
@@ -526,8 +521,6 @@ h4{
         margin-top: 25px;
         margin-bottom: 30px;
         background-color: rgba(210, 121, 122, 0.37);
-        margin-right: 0px;
-        width: 576px;
     }
     #nueva{
         text-align: left;
@@ -567,92 +560,79 @@ h4{
         padding-left: 20px;
     }
     #persona{
-        width: 100%;
+        width: 50%;
     }
-    #journey{
-        width: 0%;
-        visibility: hidden;
-    }
-    /*IDEACION*/
-    #titu{
-        margin-bottom: 50px;
-    }
-    #descargar{
-    width: 576px;
-    margin-left: -150px; 
-    margin-top: 30px;
-    }
-    #descargar a{
-        background-color: white;
-        color: #A53F40;
-        text-decoration: none;
-        font-family: 'Merienda', cursive;
-        padding: 10px;
-        border:2px solid #A53F40;
-        border-radius: 20px;
-        margin-left: 20px;
-    }
-    /*PROTOTIPO*/
-    #baja{
-        max-width: 576px;
-    }
-    #baja img{
-        width: 20%;
-        display: inline-block;
-    }
-    #proto1{
-        height: 95%;
-    }
-    #proto2{
-        height: 97%;
-    }
-    #proto3{
-        height: 96%;
-    }
-    #proto4{
-        height: 98%;
-        visibility: hidden;
-    }
-    .subtitu{
-        margin-top: 80px;
-        width: 250px;
-        margin-left: 0px;
-    }
-    #prototipo1{
-        width: 80%;
-        margin-bottom: 30px;
-    }
-    #prototipo3{
-        width: 80%;
-        margin-bottom: 30px;
-    }
-    #prototipo3d{
-        width: 80%;
-        margin-bottom: 30px;
-    }
-    /*PROTOTIPO FINAL*/
-    #prototipofina{
-        width: 576px;
-    }
-    #app{
-        width: 30%;
-        display: inline-block;
-        padding-top: 20px;
-    }
-    #descargar2{
-        margin-top: 50px;
-    }
-    #descargar2 a{
-        background-color:#A53F40;
-        color: white;
-        text-decoration: none;
-        font-size: 18px;
-        font-family: 'Merienda', cursive;
-        padding: 15px;
-        border:2px solid #A53F40;
-        border-radius: 30px;
-        margin-left: 20px;
-    }
+/*IDEACION*/
+#titu{
+    margin-bottom: 50px;
+}
+#descargar{
+   margin-left: 1000px; 
+   margin-top: 30px;
+}
+#descargar a{
+    background-color: white;
+    color: #A53F40;
+    text-decoration: none;
+    font-family: 'Merienda', cursive;
+    padding: 10px;
+    border:2px solid #A53F40;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+/*PROTOTIPO*/
+#baja img{
+    width: 20%;
+    display: inline-block;
+}
+#proto1{
+    height: 95%;
+}
+#proto2{
+    height: 97%;
+}
+#proto3{
+    height: 96%;
+}
+#proto4{
+    height: 98%;
+    visibility: visible;
+}
+.subtitu{
+    margin-top: 80px;
+}
+#prototipo1{
+    width: 45%;
+    margin-bottom: 30px;
+}
+#prototipo3{
+    width: 45%;
+    margin-bottom: 30px;
+}
+#prototipo3d{
+    width: 35%;
+    margin-bottom: 30px;
+}
+/*PROTOTIPO FINAL*/
+#app{
+    width: 25%;
+    display: inline-block;
+    padding-top: 20px;
+}
+#descargar2{
+    margin-top: 50px;
+}
+#descargar2 a{
+    background-color:#A53F40;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Merienda', cursive;
+    padding: 15px;
+    border:2px solid #A53F40;
+    border-radius: 30px;
+    margin-left: 20px;
+}
 /*CONCLUCION*/
 #conclucion0{
     background-color: rgba(210, 121, 122, 0.37);
