@@ -588,7 +588,7 @@ h4{
     }
     #descargar{
     width: 576px;
-    margin-left: 0px; 
+    margin-left: -200px; 
     margin-top: 30px;
     }
     #descargar a{
@@ -602,27 +602,28 @@ h4{
         margin-left: 20px;
     }
     /*PROTOTIPO*/
+    #baja{
+        max-width: 576px;
+    }
     #baja img{
-        width: 400px;
-        display: block;
-        justify-content: center;
-        margin: 0px;
+        width: 20%;
+        display: inline-block;
     }
     #proto1{
-        height: 500px;
+        height: 95%;
     }
     #proto2{
-        height: 500px;
+        height: 97%;
     }
     #proto3{
-        height: 500px;
+        height: 96%;
     }
     #proto4{
-        height: 500px;
+        height: 98%;
     }
     .subtitu{
         margin-top: 80px;
-        width: 500px;
+        width: 300px;
     }
     #prototipo1{
         width: 80%;
