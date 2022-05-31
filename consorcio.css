@@ -635,6 +635,9 @@ h4{
         margin-bottom: 30px;
     }
     /*PROTOTIPO FINAL*/
+    #prototipofina{
+        width: 576px;
+    }
     #app{
         width: 25%;
         display: inline-block;
@@ -658,7 +661,7 @@ h4{
 #conclusion0{
     background-color: rgba(210, 121, 122, 0.37);
     margin-top: 80px;
-    width: 576px;
+    max-width: 576px;
 }
 #conclusion{
     width: 576px;
