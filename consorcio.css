@@ -472,7 +472,7 @@ h4{
         color: #CC6667;
         text-align: center;
         margin-top: 30px;
-        margin-bottom: 0px;
+        margin-bottom: 40px;
     }
     h3{
         font-family: 'Courgette', cursive;
@@ -509,9 +509,10 @@ h4{
         border: 2px solid #A53F40;
         justify-content: center;
         margin-bottom: 50px;
+        width: 70%;
     }
     #entrevista{
-        width: 50%;
+        width: 70%;
         margin-bottom: 20px;
     }
     #nuevahipo{
@@ -538,7 +539,7 @@ h4{
     }
     /*ANALISIS*/
     .persona{
-        width: 55%;
+        width: 80%;
         margin-top: 0px;
     }
     #definicionproblema{
@@ -602,19 +603,19 @@ h4{
     }
     .subtitu{
         margin-top: 80px;
-        width: 300px;
-        margin-left: 0px;
+        width: 200px;
+        margin-left: -30px;
     }
     #prototipo1{
-        width: 55%;
+        width: 70%;
         margin-bottom: 30px;
     }
     #prototipo3{
-        width: 55%;
+        width: 70%;
         margin-bottom: 30px;
     }
     #prototipo3d{
-        width: 45%;
+        width: 55%;
         margin-bottom: 30px;
     }
     /*PROTOTIPO FINAL*/
@@ -625,6 +626,7 @@ h4{
     }
     #descargar2{
         margin-top: 50px;
+        margin-left: -100px;
     }
     #descargar2 a{
         background-color:#A53F40;
@@ -635,7 +637,7 @@ h4{
         padding: 15px;
         border:2px solid #A53F40;
         border-radius: 30px;
-        margin-left: 20px;
+        margin-left: -120px;
     }
     /*CONCLUCION*/
     #conclucion0{
@@ -670,7 +672,7 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        padding-top: 0px;
+        padding-top: -50px;
     }
     #despues a{
         text-decoration: none;
