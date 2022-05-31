@@ -507,6 +507,7 @@ h4{
         font-size: 18px;
         color:#A53F40;
         text-align: left;
+        max-width: 576px;
     }
     /*INVESTIGACION*/
     #diamante{
@@ -587,7 +588,7 @@ h4{
     }
     #descargar{
     width: 576px;
-    margin-left: -100px; 
+    margin-left: 0px; 
     margin-top: 30px;
     }
     #descargar a{
@@ -621,6 +622,7 @@ h4{
     }
     .subtitu{
         margin-top: 80px;
+        width: 500px;
     }
     #prototipo1{
         width: 80%;
@@ -664,7 +666,7 @@ h4{
     max-width: 576px;
 }
 #conclusion{
-    width: 576px;
+    max-width: 576px;
 }
 #final{
     display: inline-block;
