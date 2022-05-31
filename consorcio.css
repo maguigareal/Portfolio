@@ -515,17 +515,17 @@ h4{
     #protopersonas{
         border: 2px solid #A53F40;
         justify-content: center;
-        width: 70%;
+        width: 100%;
         margin-bottom: 50px;
     }
     #entrevista1{
         border: 2px solid #A53F40;
         justify-content: center;
-        width: 70%;
+        width: 100%;
         margin-bottom: 50px;
     }
     #entrevista{
-        width: 70%;
+        width: 100%;
         margin-bottom: 50px;
     }
     #nuevahipo{
@@ -573,7 +573,7 @@ h4{
         padding-left: 20px;
     }
     #persona{
-        width: 70%;
+        width: 100%;
     }
     #journey{
         width: 0%;
@@ -600,20 +600,20 @@ h4{
     }
     /*PROTOTIPO*/
     #baja img{
-        width: 500px;
+        width: 300px;
         display: block;
     }
     #proto1{
-        height: 600px;
+        height: 400px;
     }
     #proto2{
-        height: 600px;
+        height: 400px;
     }
     #proto3{
-        height: 600px;
+        height: 400px;
     }
     #proto4{
-        height: 600px;
+        height: 400px;
     }
     .subtitu{
         margin-top: 80px;
