@@ -658,10 +658,16 @@ h4{
 #conclusion0{
     background-color: rgba(210, 121, 122, 0.37);
     margin-top: 80px;
+    width: 576px;
+}
+#final{
+    display: inline-block;
+    height: 100px;
 }
 #atras,h3,img{
     display: inline-block;
     text-align: left;
+    padding-top: -200px;
 }
 #atras a{
     text-decoration: none;
@@ -679,6 +685,7 @@ h4{
     display: inline-block;
     text-align: right;
     text-decoration: none;
+    padding-top: 0px;
 }
 #despues a{
     text-decoration: none;
@@ -692,16 +699,20 @@ h4{
     margin-right: 10px;
     margin-bottom: 10px;
 }
-/*FOOTER*/
-#contacto{
-    margin-top: 60px;
-    height: 150px;
-}
-#redes a{
-    width: 9%;
-    display: inline-block;
-    padding-top: 20px;
-    padding-left: 60px;
-}
+    /*FOOTER*/
+    #contacto{
+        margin-top: 60px;
+        height: 150px;
+    }
+    #redes{
+        max-width: 576px;
+    }
+    #redes a{
+        width: 20%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-left: 0px;
+        padding-right: 15px;
+    }
 }
 
