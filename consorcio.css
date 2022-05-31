@@ -391,230 +391,123 @@ h4{
     *{
         max-width: 1024px;
     }
-    /*MAIN*/
-
-    h1{
-        font-family: 'Courgette', cursive;
-        font-size: 50px;
-        color: #CC6667;
-        text-align: center;
-        margin-top: 50px;
-        margin-bottom: 10px;
-    }
-    h2{
-        font-family: 'Courgette', cursive;
-        font-size: 39px;
-        color: #CC6667;
-        text-align: center;
-        margin-top: 100px;
-        margin-bottom: 30px;
-    }
-    h3{
-        font-family: 'Courgette', cursive;
-        font-size: 28px;
-        color: #CC6667;
-        text-align: left;
-        text-decoration: underline;
-        margin-top: 30px;
+    /*IDEACION*/
+    #titu{
         margin-bottom: 50px;
     }
-    h4{
-        font-family: 'Courgette', cursive;
-        font-size: 20px;
-        color: #CC6667;
-        text-align: left;
-        text-decoration: underline;
-        margin-top: 30px;
-        margin-bottom: 50px;
-        width: 400px;
+    #descargar{
+    margin-left: 500px; 
+    margin-top: 30px;
     }
-    .texto{
-        font-family: 'Merienda', cursive;
-        font-size: 18px;
-        color:#A53F40;
-        text-align: left;
-    }
-    /*INVESTIGACION*/
-    #diamante{
-        margin-bottom: 50px;
-    }
-    #protopersonas{
-        border: 2px solid #A53F40;
-        justify-content: center;
-        width: 55%;
-        margin-bottom: 50px;
-    }
-    #entrevista1{
-        border: 2px solid #A53F40;
-        justify-content: center;
-        width: 50%;
-        margin-bottom: 50px;
-    }
-    #entrevista{
-        width: 50%;
-        margin-bottom: 50px;
-    }
-    #nuevahipo{
-        border: 1px solid #CC6667;
-        border-radius: 10px;
-        margin-top: 25px;
-        margin-bottom: 30px;
-        background-color: rgba(210, 121, 122, 0.37);
-    }
-    #nueva{
-        text-align: left;
-        margin-top: 30px;
-        font-size: 28px;
+    #descargar a{
+        background-color: white;
         color: #A53F40;
-    }
-    #textonueva{
-        font-family: 'Courgette', cursive;
-        font-size: 22px;
-        color:#A53F40;
-        text-align: center;
-        padding-top: 10px;
-        padding-bottom: 10px;
-    }
-    /*ANALISIS*/
-    .persona{
-        width: 55%;
-    }
-    #definicionproblema{
-        background-color: rgba(204, 102, 103, 0.67);
+        text-decoration: none;
+        font-family: 'Merienda', cursive;
+        padding: 10px;
+        border:2px solid #A53F40;
         border-radius: 20px;
+        margin-left: 20px;
+    }
+    /*PROTOTIPO*/
+    #baja img{
+        width: 20%;
+        display: inline-block;
+    }
+    #proto1{
+        height: 95%;
+    }
+    #proto2{
+        height: 97%;
+    }
+    #proto3{
+        height: 96%;
+    }
+    #proto4{
+        height: 98%;
+    }
+    .subtitu{
         margin-top: 80px;
     }
-    #definicion{
-        font-size: 28px;
-        text-align: left;
-        color: #A53F40;
-        margin-top: 20px;
-        margin-bottom: 20px;
+    #prototipo1{
+        width: 45%;
+        margin-bottom: 30px;
     }
-    #textodefinicion{
-        font-family: 'Courgette', cursive;
+    #prototipo3{
+        width: 45%;
+        margin-bottom: 30px;
+    }
+    #prototipo3d{
+        width: 35%;
+        margin-bottom: 30px;
+    }
+    /*PROTOTIPO FINAL*/
+    #app{
+        width: 25%;
+        display: inline-block;
+        padding-top: 20px;
+    }
+    #descargar2{
+        margin-top: 50px;
+    }
+    #descargar2 a{
+        background-color:#A53F40;
+        color: white;
+        text-decoration: none;
         font-size: 18px;
-        color:white;
-        text-align: center;
-        padding-left: 20px;
+        font-family: 'Merienda', cursive;
+        padding: 15px;
+        border:2px solid #A53F40;
+        border-radius: 30px;
+        margin-left: 20px;
     }
-/*IDEACION*/
-#titu{
-    margin-bottom: 50px;
-}
-#descargar{
-   margin-left: 1000px; 
-   margin-top: 30px;
-}
-#descargar a{
-    background-color: white;
-    color: #A53F40;
-    text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border:2px solid #A53F40;
-    border-radius: 20px;
-    margin-left: 20px;
-}
-/*PROTOTIPO*/
-#baja img{
-    width: 20%;
-    display: inline-block;
-}
-#proto1{
-    height: 95%;
-}
-#proto2{
-    height: 97%;
-}
-#proto3{
-    height: 96%;
-}
-#proto4{
-    height: 98%;
-}
-.subtitu{
-    margin-top: 80px;
-}
-#prototipo1{
-    width: 45%;
-    margin-bottom: 30px;
-}
-#prototipo3{
-    width: 45%;
-    margin-bottom: 30px;
-}
-#prototipo3d{
-    width: 35%;
-    margin-bottom: 30px;
-}
-/*PROTOTIPO FINAL*/
-#app{
-    width: 25%;
-    display: inline-block;
-    padding-top: 20px;
-}
-#descargar2{
-    margin-top: 50px;
-}
-#descargar2 a{
-    background-color:#A53F40;
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-    font-family: 'Merienda', cursive;
-    padding: 15px;
-    border:2px solid #A53F40;
-    border-radius: 30px;
-    margin-left: 20px;
-}
-/*CONCLUSION*/
-#conclusion0{
-    background-color: rgba(210, 121, 122, 0.37);
-    margin-top: 80px;
-}
-#atras,h3,img{
-    display: inline-block;
-    text-align: left;
-}
-#atras a{
-    text-decoration: none;
-    color: #A53F40;
-}
-#atras a:hover{
-    text-decoration: underline;
-}
-#atras img{
-    width: 5%;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
-#despues,h3,img{
-    display: inline-block;
-    text-align: right;
-    text-decoration: none;
-}
-#despues a{
-    text-decoration: none;
-    color: #A53F40;
-}
-#despues a:hover{
-    text-decoration: underline;
-}
-#despues img{
-    width: 5%;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
-/*FOOTER*/
-#contacto{
-    margin-top: 60px;
-    height: 150px;
-}
-#redes a{
-    width: 9%;
-    display: inline-block;
-    padding-top: 20px;
-    padding-left: 60px;
-}
+    /*CONCLUSION*/
+    #conclusion0{
+        background-color: rgba(210, 121, 122, 0.37);
+        margin-top: 80px;
+    }
+    #atras,h3,img{
+        display: inline-block;
+        text-align: left;
+    }
+    #atras a{
+        text-decoration: none;
+        color: #A53F40;
+    }
+    #atras a:hover{
+        text-decoration: underline;
+    }
+    #atras img{
+        width: 5%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    #despues,h3,img{
+        display: inline-block;
+        text-align: right;
+        text-decoration: none;
+    }
+    #despues a{
+        text-decoration: none;
+        color: #A53F40;
+    }
+    #despues a:hover{
+        text-decoration: underline;
+    }
+    #despues img{
+        width: 5%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    /*FOOTER*/
+    #contacto{
+        margin-top: 60px;
+        height: 150px;
+    }
+    #redes a{
+        width: 9%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-left: 60px;
+    }
 }
