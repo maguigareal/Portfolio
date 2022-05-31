@@ -84,12 +84,6 @@ h4{
 #diamante{
     margin-bottom: 50px;
 }
-#protopersonas{
-    border: 2px solid #A53F40;
-    justify-content: center;
-    width: 55%;
-    margin-bottom: 50px;
-}
 #entrevista1{
     border: 2px solid #A53F40;
     justify-content: center;
@@ -146,10 +140,6 @@ h4{
 }
 #persona{
     width: 50%;
-}
-#journey{
-    width: 50%;
-    visibility: visible;
 }
 /*IDEACION*/
 #titu{
@@ -223,7 +213,7 @@ h4{
     margin-left: 20px;
 }
 /*CONCLUSION*/
-#conclusion0{
+#conclucion0{
     background-color: rgba(210, 121, 122, 0.37);
     margin-top: 80px;
 }
@@ -664,12 +654,12 @@ h4{
         margin-left: 20px;
     }
 /*CONCLUCION*/
-#conclusion0{
+#conclucion0{
     background-color: rgba(210, 121, 122, 0.37);
     margin-top: 80px;
     max-width: 576px;
 }
-#conclusion{
+#conclucion{
     max-width: 576px;
 }
 #final{
