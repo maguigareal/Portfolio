@@ -603,7 +603,7 @@ h4{
         width: 400px;
         display: block;
         justify-content: center;
-        margin: 20px;
+        margin: 0px;
     }
     #proto1{
         height: 500px;
@@ -621,15 +621,15 @@ h4{
         margin-top: 80px;
     }
     #prototipo1{
-        width: 45%;
+        width: 60%;
         margin-bottom: 30px;
     }
     #prototipo3{
-        width: 45%;
+        width: 60%;
         margin-bottom: 30px;
     }
     #prototipo3d{
-        width: 35%;
+        width: 50%;
         margin-bottom: 30px;
     }
     /*PROTOTIPO FINAL*/
