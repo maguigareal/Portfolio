@@ -185,6 +185,7 @@ h4{
 }
 #proto4{
     height: 98%;
+    visibility: visible;
 }
 .subtitu{
     margin-top: 80px;
@@ -588,7 +589,7 @@ h4{
     }
     #descargar{
     width: 576px;
-    margin-left: -200px; 
+    margin-left: -150px; 
     margin-top: 30px;
     }
     #descargar a{
@@ -620,10 +621,12 @@ h4{
     }
     #proto4{
         height: 98%;
+        visibility: hidden;
     }
     .subtitu{
         margin-top: 80px;
-        width: 300px;
+        width: 250px;
+        margin-left: 0px;
     }
     #prototipo1{
         width: 80%;
@@ -642,7 +645,7 @@ h4{
         width: 576px;
     }
     #app{
-        width: 25%;
+        width: 30%;
         display: inline-block;
         padding-top: 20px;
     }
@@ -671,7 +674,7 @@ h4{
 }
 #final{
     display: inline-block;
-    height: 100px;
+    max-width: 576px;
 }
 #atras,h3,img{
     display: inline-block;
@@ -693,7 +696,7 @@ h4{
     display: inline-block;
     text-align: right;
     text-decoration: none;
-    padding-top: -200px;
+    padding-top: 200px;
 }
 #despues a{
     text-decoration: none;
