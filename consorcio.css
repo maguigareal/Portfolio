@@ -512,7 +512,7 @@ h4{
     }
     #entrevista{
         width: 50%;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
     }
     #nuevahipo{
         border: 1px solid #CC6667;
@@ -520,6 +520,7 @@ h4{
         margin-top: 25px;
         margin-bottom: 30px;
         background-color: rgba(210, 121, 122, 0.37);
+        width: 576px;
     }
     #nueva{
         text-align: left;
@@ -538,11 +539,13 @@ h4{
     /*ANALISIS*/
     .persona{
         width: 55%;
+        margin-top: 0px;
     }
     #definicionproblema{
         background-color: rgba(204, 102, 103, 0.67);
         border-radius: 20px;
         margin-top: 80px;
+        width: 576px;
     }
     #definicion{
         font-size: 28px;
@@ -561,124 +564,126 @@ h4{
     #persona{
         width: 50%;
     }
-/*IDEACION*/
-#titu{
-    margin-bottom: 50px;
-}
-#descargar{
-   margin-left: 1000px; 
-   margin-top: 30px;
-}
-#descargar a{
-    background-color: white;
-    color: #A53F40;
-    text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border:2px solid #A53F40;
-    border-radius: 20px;
-    margin-left: 20px;
-}
-/*PROTOTIPO*/
-#baja img{
-    width: 20%;
-    display: inline-block;
-}
-#proto1{
-    height: 95%;
-}
-#proto2{
-    height: 97%;
-}
-#proto3{
-    height: 96%;
-}
-#proto4{
-    height: 98%;
-    visibility: visible;
-}
-.subtitu{
-    margin-top: 80px;
-}
-#prototipo1{
-    width: 45%;
-    margin-bottom: 30px;
-}
-#prototipo3{
-    width: 45%;
-    margin-bottom: 30px;
-}
-#prototipo3d{
-    width: 35%;
-    margin-bottom: 30px;
-}
-/*PROTOTIPO FINAL*/
-#app{
-    width: 25%;
-    display: inline-block;
-    padding-top: 20px;
-}
-#descargar2{
-    margin-top: 50px;
-}
-#descargar2 a{
-    background-color:#A53F40;
-    color: white;
-    text-decoration: none;
-    font-size: 18px;
-    font-family: 'Merienda', cursive;
-    padding: 15px;
-    border:2px solid #A53F40;
-    border-radius: 30px;
-    margin-left: 20px;
-}
-/*CONCLUCION*/
-#conclucion0{
-    background-color: rgba(210, 121, 122, 0.37);
-    margin-top: 80px;
-    max-width: 576px;
-}
-#conclucion{
-    max-width: 576px;
-}
-#final{
-    display: inline-block;
-    max-width: 576px;
-}
-#atras,h3,img{
-    display: inline-block;
-    text-align: left;
-}
-#atras a{
-    text-decoration: none;
-    color: #A53F40;
-}
-#atras a:hover{
-    text-decoration: underline;
-}
-#atras img{
-    width: 5%;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
-#despues,h3,img{
-    display: inline-block;
-    text-align: right;
-    text-decoration: none;
-    padding-top: 200px;
-}
-#despues a{
-    text-decoration: none;
-    color: #A53F40;
-}
-#despues a:hover{
-    text-decoration: underline;
-}
-#despues img{
-    width: 5%;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
+    /*IDEACION*/
+    #titu{
+        margin-bottom: 50px;
+    }
+    #descargar{
+    margin-left: 80px; 
+    margin-top: 30px;
+    }
+    #descargar a{
+        background-color: white;
+        color: #A53F40;
+        text-decoration: none;
+        font-family: 'Merienda', cursive;
+        padding: 10px;
+        border:2px solid #A53F40;
+        border-radius: 20px;
+        margin-left: 20px;
+    }
+    /*PROTOTIPO*/
+    #baja img{
+        width: 20%;
+        display: inline-block;
+    }
+    #proto1{
+        height: 95%;
+    }
+    #proto2{
+        height: 97%;
+    }
+    #proto3{
+        height: 96%;
+    }
+    #proto4{
+        height: 98%;
+        visibility: hidden;
+    }
+    .subtitu{
+        margin-top: 80px;
+        width: 300px;
+        margin-left: 0px;
+    }
+    #prototipo1{
+        width: 55%;
+        margin-bottom: 30px;
+    }
+    #prototipo3{
+        width: 55%;
+        margin-bottom: 30px;
+    }
+    #prototipo3d{
+        width: 45%;
+        margin-bottom: 30px;
+    }
+    /*PROTOTIPO FINAL*/
+    #app{
+        width: 30%;
+        display: inline-block;
+        padding-top: 20px;
+    }
+    #descargar2{
+        margin-top: 50px;
+    }
+    #descargar2 a{
+        background-color:#A53F40;
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+        font-family: 'Merienda', cursive;
+        padding: 15px;
+        border:2px solid #A53F40;
+        border-radius: 30px;
+        margin-left: 20px;
+    }
+    /*CONCLUCION*/
+    #conclucion0{
+        background-color: rgba(210, 121, 122, 0.37);
+        margin-top: 80px;
+        max-width: 576px;
+    }
+    #conclucion{
+        max-width: 576px;
+    }
+    #final{
+        display: inline-block;
+        max-width: 576px;
+    }
+    #atras,h3,img{
+        display: inline-block;
+        text-align: left;
+    }
+    #atras a{
+        text-decoration: none;
+        color: #A53F40;
+    }
+    #atras a:hover{
+        text-decoration: underline;
+    }
+    #atras img{
+        width: 5%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    #despues,h3,img{
+        display: inline-block;
+        text-align: right;
+        text-decoration: none;
+        padding-top: 0px;
+    }
+    #despues a{
+        text-decoration: none;
+        color: #A53F40;
+    }
+    #despues a:hover{
+        text-decoration: underline;
+    }
+    #despues img{
+        width: 5%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
     /*FOOTER*/
     #contacto{
         margin-top: 60px;
