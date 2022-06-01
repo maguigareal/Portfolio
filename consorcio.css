@@ -582,20 +582,20 @@ h4{
     }
     /*PROTOTIPO*/
     #baja img{
-        width: 50%;
+        width: 450px;
         display: inline-block;
     }
     #proto1{
-        height: 70%;
+        height: 300px;
     }
     #proto2{
-        height: 70%;
+        height: 300px;
     }
     #proto3{
-        height: 70%;
+        height: 300px;
     }
     #proto4{
-        height: 98%;
+        height: 0px;
         visibility: hidden;
     }
     .subtitu{
