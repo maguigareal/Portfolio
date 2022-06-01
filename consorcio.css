@@ -582,17 +582,20 @@ h4{
     }
     /*PROTOTIPO*/
     #baja img{
-        width: 350px;
+        width: 20%;
         display: inline-block;
     }
     #proto1{
-        height: 200px;
+        height: 95%;
     }
     #proto2{
-        height: 200px;
+        height: 97%;
     }
     #proto3{
-        height: 200px;
+        height: 96%;
+    }
+    #proto4{
+        height: 98%;
     }
     #proto4{
         height: 0px;
@@ -604,15 +607,15 @@ h4{
         margin-left: -10px;
     }
     #prototipo1{
-        width: 70%;
+        width: 80%;
         margin-bottom: 30px;
     }
     #prototipo3{
-        width: 70%;
+        width: 80%;
         margin-bottom: 30px;
     }
     #prototipo3d{
-        width: 55%;
+        width: 60%;
         margin-bottom: 30px;
     }
     /*PROTOTIPO FINAL*/
