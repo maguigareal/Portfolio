@@ -546,7 +546,7 @@ h4{
         background-color: rgba(204, 102, 103, 0.67);
         border-radius: 20px;
         margin-top: 80px;
-        width: 576px;
+        width: 500px;
     }
     #definicion{
         font-size: 28px;
@@ -567,8 +567,8 @@ h4{
         margin-bottom: 50px;
     }
     #descargar{
-        margin-left: 80px; 
-        margin-top: 30px;
+        margin-left: 0px; 
+        margin-top: -150px;
     }
     #descargar a{
         background-color: white;
@@ -578,21 +578,21 @@ h4{
         padding: 10px;
         border:2px solid #A53F40;
         border-radius: 20px;
-        margin-left: -120px;
+        margin-left: -200px;
     }
     /*PROTOTIPO*/
     #baja img{
-        width: 30%;
+        width: 50%;
         display: inline-block;
     }
     #proto1{
-        height: 95%;
+        height: 70%;
     }
     #proto2{
-        height: 97%;
+        height: 70%;
     }
     #proto3{
-        height: 96%;
+        height: 70%;
     }
     #proto4{
         height: 98%;
@@ -634,7 +634,7 @@ h4{
         padding: 15px;
         border:2px solid #A53F40;
         border-radius: 30px;
-        margin-left: 20px;
+        margin-left: 40px;
     }
     /*CONCLUCION*/
     #conclucion0{
