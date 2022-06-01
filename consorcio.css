@@ -520,6 +520,7 @@ h4{
         border-radius: 10px;
         margin-top: 25px;
         margin-bottom: 30px;
+        margin-left: 20px;
         background-color: rgba(210, 121, 122, 0.37);
         width: 576px;
     }
@@ -569,6 +570,7 @@ h4{
     #descargar{
         margin-left: 0px; 
         margin-top: 20px;
+        margin-bottom: 20px;
     }
     #descargar a{
         background-color: white;
@@ -584,7 +586,7 @@ h4{
     #baja img{
         width: 20%;
         display: inline-block;
-        margin-left: 30px;
+        margin-left: 20px;
     }
     #proto1{
         height: 95%;
