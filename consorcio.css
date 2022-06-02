@@ -631,7 +631,6 @@ h4{
         color:#A53F40;
         text-align: left;
         max-width: 576px;
-        margin-left: 0px;
     }
     /*INVESTIGACION*/
     #diamante{
@@ -901,7 +900,7 @@ h4{
     padding-right: 0px;
 }
 #tp{
-    margin-left: 100px;
+    margin-left: 25px;
     padding-right: 0px;
 }
 #grafico{
