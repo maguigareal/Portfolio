@@ -874,7 +874,7 @@ h4{
     #num{
         width: 20%;
         margin-top: 0px;
-        margin-left: 200px;
+        margin-left: 150px;
         text-align: center;
         justify-content: center;
     }
@@ -893,7 +893,7 @@ h4{
     border: 2px solid #A53F40;
     margin-top: 50px;
     justify-content: center;
-    width: 576px;
+    width: 400px;
 }
 #h3{
     margin-left: 30px;
@@ -915,7 +915,7 @@ h4{
     margin-left: 0px;
     padding: 10px;
     justify-content: center;
-    width: 576px;
+    width: 400px;
 }
 #grafico3{
     width: 65%;
@@ -923,13 +923,13 @@ h4{
 }
 #todo{
     border: 2px solid #A53F40;
-    width: 576px;
+    width: 400px;
     margin-top: 50px;
     margin-left: 0px;
 }
 #todo2{
     border: 2px solid #A53F40;
-    width: 576px;
+    width: 400px;
     margin-top: 50px;
     margin-left: 0px;
 }
