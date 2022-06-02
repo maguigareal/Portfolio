@@ -812,8 +812,8 @@ h4{
         color: #A53F40;
         font-size: 21px;
         padding-left: 0px;
-        margin-left: -30px;
-        width: 200px;
+        margin-left: 0px;
+        width: 150px;
     }
     #despues a:hover{
         text-decoration: underline;
@@ -904,7 +904,7 @@ h4{
     #h3{
         margin-left: 5px;
         padding-right: 0px;
-        width: 350px;
+        width: 300px;
     }
     #tp{
         margin-left: 25px;
