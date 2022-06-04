@@ -6,23 +6,36 @@
 /*NAV*/
 
 #mga{
-     width: 15%;
-     height: 15%;
-     margin: 0%;
-     padding: 0%;
+    width: 15%;
+    height: 15%;
+    margin: 0%;
+    padding: 0%;
 }
-.nav-link{
-    color: #A53F40;
-    margin-right: 10px;
-    font-family:'Merienda', cursive;
-    font-style: bold;
-    font-size: 18px;
-    padding: 10px;
-    width: 120px;
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+   color: #A53F40;
 }
-.nav-link:hover{
-    text-decoration: underline;
-    color: #CC6667;
+.navbar-light .navbar-nav .nav-link:hover{
+   text-decoration: underline;
+   color: #CC6667;
+}
+.navbar-light .navbar-nav .nav-link{
+   color: #A53F40;
+}
+.nav-item a{
+   color: #A53F40;
+   margin-right: 10px;
+   font-family:'Merienda', cursive;
+   font-style: bold;
+   font-size: 18px;
+   padding: 10px;
+   width: 120px;
+}
+.navbar-light .navbar-toggler {
+   color: #A53F40;
+   border-color: #A53F40;
+}
+.navbar-toggle-icon {
+   color: #A53F40;
 }
 /*MAIN*/
 
@@ -491,5 +504,281 @@ h4{
 }
 #conclutitulo{
     margin-top: 20px;
+}
+
+/*RESPONSIVE*/
+
+/*BOOKING*/
+@media (max-width: 576px){
+    *{
+        padding: 0%;
+        margin: 0%;
+        max-width: 576px;
+    } 
+    #mga{
+        width: 25%;
+        height: 25%;
+        margin: 0%;
+        margin-left: 0px;
+        padding: 0%;
+    }
+    h1{
+        font-family: 'Courgette', cursive;
+        font-size: 50px;
+        color: #CC6667;
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 0px;
+    }
+    h2{
+        font-family: 'Courgette', cursive;
+        font-size: 39px;
+        color: #CC6667;
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 30px;
+    }
+    h3{
+        font-family: 'Courgette', cursive;
+        font-size: 28px;
+        color: #CC6667;
+        text-align: left;
+        text-decoration: underline;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 300px;
+    }
+    h4{
+        font-family: 'Courgette', cursive;
+        font-size: 20px;
+        color: #CC6667;
+        text-align: left;
+        text-decoration: underline;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 400px;
+    }
+    .texto{
+        font-family: 'Merienda', cursive;
+        font-size: 18px;
+        color:#A53F40;
+        text-align: left;
+    }
+    /*INVESTIGACION*/
+    #intro{
+        background-color: #D2797A;
+        margin-top: 30px;
+    }
+    #pc{
+        width: 70%;
+    }
+    .textintro{
+        color: white;
+        font-family: 'Merienda', cursive;
+        font-size: 18px;
+        text-align: left;
+    }
+    #h4{
+        font-family: 'Courgette', cursive;
+        font-size: 22px;
+        color: #CC6667;
+        text-align: left;
+        text-decoration: underline;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        width: 400px;
+    }
+    #conver{
+        width: 0%;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 0%;
+        visibility: hidden;
+        height: 20px;
+    }
+    .card{
+        border: none;
+    }
+    /*PRODUCTO*/
+    #etapas1{
+        margin-top: 60px;
+    }
+    /*CUANTITATIVAS*/
+    #expedia{
+        width: 15%;
+        margin-top: -20px;
+    }
+    .subtext{
+        font-size: 28px;
+        color: #A53F40;
+        font-family: 'Merienda', cursive;
+    }
+    #booking{
+        width: 15%;
+        margin-top: -20px;
+    }
+    .cuadro{
+        border: 2px solid #A53F40;
+        margin-top: 50px;
+        padding: 20px;
+        justify-content: center;
+        font-family: 'Merienda', cursive;
+        font-size: 18px;
+        color:#A53F40;
+        text-align: left;
+    }
+    #hotel2{
+        width: 90%;
+        justify-content: center;
+    }
+    #cuadro3{
+        border: 2px solid #A53F40;
+        width: 500px;
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    #porcentaje{
+        margin-bottom: 0%;
+        margin-top: 20px;
+    }
+    #cuadro2{
+        background-color: rgba(204, 102, 103, 0.67);
+        border-radius: 20px;
+        width: 500px;
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    #cuadrotitulo{
+        font-size: 28px;
+        text-align: left;
+        color: #A53F40;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    #textocuadro{
+        font-family: 'Courgette', cursive;
+        font-size: 18px;
+        color:white;
+        text-align: left;
+        padding-left: 20px;
+    }
+    /*ERRORES*/
+    #etapas2{
+        margin-top: 50px;
+        width: 100%;
+    }
+    .subtext2{
+        font-size: 22px;
+        color: #A53F40;
+        font-family: 'Merienda', cursive;
+    }
+    #bookingerror{
+        width: 90%;
+    }
+    /*CUALITATIVAS*/
+    #sus{
+        margin-top: 50px;
+    }
+    #referencia{
+        color: grey;
+    }
+    .subreferencia{
+        font-size: 28px;
+        color: grey;
+        font-family: 'Merienda', cursive;
+        margin-left: 150px;
+    }
+    .subreferencia2{
+        margin-left: 150px;
+        margin-top: 20px;
+        font-size: 28px;
+        color: #A53F40;
+        font-family: 'Merienda', cursive;
+    }
+    #booking2{
+        width: 25%;
+        margin-top: -20px;
+        margin-left: 120px;
+    }
+    #expedia2{
+        width: 25%;
+        margin-top: -20px;
+        margin-left: 120px;
+    }
+    #nps{
+        margin-top: 50px;
+    }
+    #cuadro4{
+        border: 2px solid #A53F40;
+        width: 1000px;
+        margin-top: 50px;
+        margin-left: 190px;
+    }
+    #textocuadro2{
+        font-family: 'Courgette', cursive;
+        font-size: 20px;
+        color:white;
+        text-align: left;
+        padding:30px;
+    }
+    #cuadro5{
+        background-color: rgba(204, 102, 103, 0.67);
+        border-radius: 20px;
+        width: 1000px;
+        margin-top: 50px;
+        margin-left: 200px;
+    }
+    /*CONCLUCION*/
+    #confinal{
+        margin-left: 90px;
+    }
+    #atras,h3,img{
+        display: inline-block;
+        text-align: left;
+    }
+    #atras a{
+        text-decoration: none;
+        color: #A53F40;
+    }
+    #atras a:hover{
+        text-decoration: underline;
+    }
+    #atras img{
+        width: 5%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    #despues,h3,img{
+        display: inline-block;
+        text-align: right;
+        text-decoration: none;
+    }
+    #despues a{
+        text-decoration: none;
+        color: #A53F40;
+    }
+    #despues a:hover{
+        text-decoration: underline;
+    }
+    #despues img{
+        width: 5%;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+     /*FOOTER*/
+     #contacto{
+        margin-top: 60px;
+        height: 150px;
+    }
+    #redes{
+        max-width: 576px;
+    }
+    #redes a{
+        width: 20%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-left: 0px;
+        padding-right: 15px;
+    }
 }
 
