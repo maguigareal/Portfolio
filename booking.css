@@ -81,6 +81,12 @@ h4{
     text-align: left;
 }
 /*INVESTIGACION*/
+.ex{
+    color: #A53F40;
+}
+.bo{
+    color: #A53F40;
+}
 #intro{
     background-color: #D2797A;
     margin-top: 30px;
@@ -542,11 +548,12 @@ h4{
         font-family: 'Courgette', cursive;
         font-size: 28px;
         color: #CC6667;
-        text-align: left;
+        text-align: center;
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
         width: 300px;
+        margin-left: 0px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -556,7 +563,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 400px;
+        width: 300px;
     }
     .texto{
         font-family: 'Merienda', cursive;
@@ -565,6 +572,14 @@ h4{
         text-align: left;
     }
     /*INVESTIGACION*/
+    .ex{
+        color: #A53F40;
+        margin-left: 0px;
+        text-align: left;
+    }
+    .bo{
+        color: #A53F40;
+    }
     #intro{
         background-color: #D2797A;
         margin-top: 30px;
@@ -617,6 +632,9 @@ h4{
         width: 15%;
         margin-top: -20px;
     }
+    .no{
+        visibility: hidden;
+    }
     .cuadro{
         border: 2px solid #A53F40;
         margin-top: 50px;
@@ -636,6 +654,7 @@ h4{
         width: 500px;
         margin-top: 50px;
         margin-left: 0px;
+        margin-right: 0px;
     }
     #porcentaje{
         margin-bottom: 0%;
@@ -765,20 +784,6 @@ h4{
         margin-right: 10px;
         margin-bottom: 10px;
     }
-     /*FOOTER*/
-     #contacto{
-        margin-top: 60px;
-        height: 150px;
-    }
-    #redes{
-        max-width: 576px;
-    }
-    #redes a{
-        width: 20%;
-        display: inline-block;
-        padding-top: 20px;
-        padding-left: 0px;
-        padding-right: 15px;
-    }
+     
 }
 
