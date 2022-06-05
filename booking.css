@@ -552,7 +552,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 350px;
+        width: 300px;
         margin-left: -50px;
     }
     h4{
@@ -569,13 +569,24 @@ h4{
         font-family: 'Merienda', cursive;
         font-size: 18px;
         color:#A53F40;
-        text-align: center;
+        text-align: left;
     }
     #dato{
         text-align: center;
     }
     #dato p{
         text-align: center;
+    }
+    .ups{
+        width: 350px;
+        font-family: 'Courgette', cursive;
+        font-size: 28px;
+        color: #CC6667;
+        text-align: center;
+        text-decoration: underline;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        margin-left: -50px;    
     }
     /*INVESTIGACION*/
     .ex{
@@ -659,7 +670,7 @@ h4{
         font-size: 18px;
         color:#A53F40;
         text-align: left;
-        width: 500px;
+        width: 400px;
     }
     #hotel2{
         width: 90%;
@@ -707,6 +718,8 @@ h4{
         font-size: 22px;
         color: #A53F40;
         font-family: 'Merienda', cursive;
+        margin-left: -30px;
+        text-align: left;
     }
     #bookingerror{
         width: 90%;
