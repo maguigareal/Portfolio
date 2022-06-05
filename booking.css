@@ -548,12 +548,12 @@ h4{
         font-family: 'Courgette', cursive;
         font-size: 28px;
         color: #CC6667;
-        text-align: center;
+        text-align: left;
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
         width: 350px;
-        margin-left: -50px;
+        margin-left: 10px;
     }
     h4{
         font-family: 'Courgette', cursive;
