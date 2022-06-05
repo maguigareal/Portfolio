@@ -553,7 +553,7 @@ h4{
         margin-top: 30px;
         margin-bottom: 50px;
         width: 350px;
-        margin-left: -50px;
+        margin-left: -10px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -585,7 +585,7 @@ h4{
         text-align: center;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: 30px;    
+        margin-left: 20px;    
     }
     /*INVESTIGACION*/
     .ex{
@@ -668,6 +668,7 @@ h4{
     /*PRODUCTO*/
     #etapas1{
         margin-top: 60px;
+        width: 80%;
     }
     /*CUANTITATIVAS*/
     #expedia{
@@ -705,7 +706,11 @@ h4{
         font-size: 18px;
         color:#A53F40;
         text-align: left;
-        width: 300px;
+        width: 400px;
+    }
+    #hotel1{
+        width: 90%;
+        justify-content: center;
     }
     #hotel2{
         width: 90%;
@@ -737,6 +742,7 @@ h4{
         margin-top: 20px;
         margin-bottom: 20px;
         padding-left: 20px;
+        width: 300px;
     }
     #textocuadro{
         font-family: 'Courgette', cursive;
@@ -778,7 +784,7 @@ h4{
         margin-bottom: 80px;
     }
     .subreferencia2{
-        margin-left: 160px;
+        margin-left: 158px;
         margin-top: 20px;
         font-size: 28px;
         color: #A53F40;
@@ -845,6 +851,7 @@ h4{
         text-align: right;
         text-decoration: none;
         padding-top: -250px;
+
     }
     #despues a{
         text-decoration: none;
@@ -852,7 +859,7 @@ h4{
         font-size: 21px;
         padding-left: 0px;
         margin-left: 0px;
-        width: 150px;
+        width: 400px;
     }
     #despues a:hover{
         text-decoration: underline;
@@ -862,5 +869,20 @@ h4{
         margin-right: 10px;
         margin-bottom: 10px;
     } 
+    /*FOOTER*/
+    #contacto{
+        margin-top: 60px;
+        height: 150px;
+    }
+    #redes{
+        max-width: 576px;
+    }
+    #redes a{
+        width: 20%;
+        display: inline-block;
+        padding-top: 20px;
+        padding-left: 0px;
+        padding-right: 15px;
+    }
 }
 
