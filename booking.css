@@ -552,7 +552,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 300px;
+        width: 350px;
         margin-left: -50px;
     }
     h4{
@@ -569,7 +569,7 @@ h4{
         font-family: 'Merienda', cursive;
         font-size: 18px;
         color:#A53F40;
-        text-align: left;
+        text-align: center;
     }
     #dato{
         text-align: center;
@@ -580,13 +580,15 @@ h4{
     /*INVESTIGACION*/
     .ex{
         color: #A53F40;
-        margin-left: 50px;
+        margin-left: 40px;
         text-align: center;
+        font-size: 30px;
     }
     .bo{
         color: #A53F40;
         text-align: center;
-        margin-left: 50px;
+        margin-left: 40px;
+        font-size: 30px;
     }
     #intro{
         background-color: #D2797A;
@@ -645,10 +647,13 @@ h4{
     .no{
         visibility: hidden;
     }
+    #no{
+        visibility: hidden;
+    }
     .cuadro{
         border: 2px solid #A53F40;
         margin-top: 50px;
-        padding: 0px;
+        padding: 5px;
         justify-content: center;
         font-family: 'Merienda', cursive;
         font-size: 18px;
