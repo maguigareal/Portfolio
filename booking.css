@@ -638,7 +638,7 @@ h4{
         text-align: left;
     }
     #h3{
-        width: 400px;
+        width: 350px;
         margin-left: 0px;
         margin-top: 40px;
     }
@@ -672,6 +672,7 @@ h4{
     #expedia{
         width: 15%;
         margin-top: -20px;
+        margin-left: 10px;
     }
     .subtext{
         font-size: 28px;
@@ -683,6 +684,7 @@ h4{
     #booking{
         width: 15%;
         margin-top: -20px;
+        margin-left: 10px;
     }
     .no{
         visibility: hidden;
@@ -704,7 +706,7 @@ h4{
         font-size: 18px;
         color:#A53F40;
         text-align: left;
-        width: 400px;
+        width: 380px;
     }
     #hotel1{
         width: 90%;
