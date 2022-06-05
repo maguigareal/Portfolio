@@ -641,7 +641,7 @@ h4{
     }
     #h3{
         width: 400px;
-        margin-left: 10px;
+        margin-left: 0px;
         margin-top: 40px;
     }
     #h4{
@@ -775,6 +775,7 @@ h4{
         text-align: center;
         width: 500px;
         margin-top: 80px;
+        margin-left: -20px;
     }
     .subreferencia{
         font-size: 28px;
@@ -830,7 +831,7 @@ h4{
     #atras,h3,img{
         display: inline-block;
         text-align: left;
-        width: 150px;
+        width: 200px;
     }
     #atras a{
         text-decoration: none;
@@ -851,6 +852,7 @@ h4{
         text-align: right;
         text-decoration: none;
         padding-top: -250px;
+        width: 180px;
 
     }
     #despues a{
@@ -859,7 +861,6 @@ h4{
         font-size: 21px;
         padding-left: 0px;
         margin-left: 0px;
-        width: 400px;
     }
     #despues a:hover{
         text-decoration: underline;
