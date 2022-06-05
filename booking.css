@@ -552,7 +552,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 300px;
+        width: 200px;
         margin-left: 0px;
     }
     h4{
@@ -575,10 +575,11 @@ h4{
     .ex{
         color: #A53F40;
         margin-left: 0px;
-        text-align: left;
+        text-align: center;
     }
     .bo{
         color: #A53F40;
+        text-align: center;
     }
     #intro{
         background-color: #D2797A;
@@ -638,12 +639,13 @@ h4{
     .cuadro{
         border: 2px solid #A53F40;
         margin-top: 50px;
-        padding: 20px;
+        padding: 10px;
         justify-content: center;
         font-family: 'Merienda', cursive;
         font-size: 18px;
         color:#A53F40;
         text-align: left;
+        width: 576px;
     }
     #hotel2{
         width: 90%;
@@ -729,9 +731,9 @@ h4{
     }
     #cuadro4{
         border: 2px solid #A53F40;
-        width: 1000px;
+        width: 576px;
         margin-top: 50px;
-        margin-left: 190px;
+        margin-left: 0px;
     }
     #textocuadro2{
         font-family: 'Courgette', cursive;
@@ -743,9 +745,9 @@ h4{
     #cuadro5{
         background-color: rgba(204, 102, 103, 0.67);
         border-radius: 20px;
-        width: 1000px;
+        width: 576px;
         margin-top: 50px;
-        margin-left: 200px;
+        margin-left: 0px;
     }
     /*CONCLUCION*/
     #confinal{
