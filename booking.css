@@ -552,8 +552,8 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 200px;
-        margin-left: 0px;
+        width: 300px;
+        margin-left: -50px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -571,15 +571,22 @@ h4{
         color:#A53F40;
         text-align: left;
     }
+    #dato{
+        text-align: center;
+    }
+    #dato p{
+        text-align: center;
+    }
     /*INVESTIGACION*/
     .ex{
         color: #A53F40;
-        margin-left: 0px;
+        margin-left: 50px;
         text-align: center;
     }
     .bo{
         color: #A53F40;
         text-align: center;
+        margin-left: 50px;
     }
     #intro{
         background-color: #D2797A;
@@ -602,7 +609,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 10px;
-        width: 400px;
+        width: 300px;
     }
     #conver{
         width: 0%;
@@ -628,6 +635,8 @@ h4{
         font-size: 28px;
         color: #A53F40;
         font-family: 'Merienda', cursive;
+        text-align: center;
+        margin-left: 30px;
     }
     #booking{
         width: 15%;
@@ -639,13 +648,13 @@ h4{
     .cuadro{
         border: 2px solid #A53F40;
         margin-top: 50px;
-        padding: 10px;
+        padding: 0px;
         justify-content: center;
         font-family: 'Merienda', cursive;
         font-size: 18px;
         color:#A53F40;
         text-align: left;
-        width: 576px;
+        width: 500px;
     }
     #hotel2{
         width: 90%;
@@ -653,10 +662,11 @@ h4{
     }
     #cuadro3{
         border: 2px solid #A53F40;
-        width: 500px;
+        width: 400px;
         margin-top: 50px;
         margin-left: 0px;
         margin-right: 0px;
+        padding: 0px;
     }
     #porcentaje{
         margin-bottom: 0%;
@@ -702,6 +712,8 @@ h4{
     }
     #referencia{
         color: grey;
+        text-align: center;
+        width: 576px;
     }
     .subreferencia{
         font-size: 28px;
