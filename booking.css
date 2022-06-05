@@ -552,8 +552,8 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        width: 300px;
-        margin-left: -70px;
+        width: 350px;
+        margin-left: -50px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -583,22 +583,21 @@ h4{
         font-size: 28px;
         color: #CC6667;
         text-align: center;
-        text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: -20px;    
+        margin-left: 30px;    
     }
     /*INVESTIGACION*/
     .ex{
         color: #A53F40;
         margin-left: 40px;
-        text-align: center;
+        text-align: left;
         font-size: 30px;
         text-decoration: underline;
     }
     .bo{
         color: #A53F40;
-        text-align: center;
+        text-align: left;
         margin-left: 40px;
         font-size: 30px;
         text-decoration: underline;
@@ -608,11 +607,20 @@ h4{
         font-family: 'Courgette', cursive;
         font-size: 28px;
         color: #CC6667;
-        text-align: center;
         margin-top: 30px;
         margin-bottom: 50px;
         width: 300px;
-        margin-left: -20px;
+        margin-left: 40px;
+    }
+    .grupo2{
+        text-align: left;
+        font-family: 'Courgette', cursive;
+        font-size: 28px;
+        color: #CC6667;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 300px;
+        margin-left: -100px;
     }
     #textb{
         text-align: center;
@@ -630,6 +638,11 @@ h4{
         font-family: 'Merienda', cursive;
         font-size: 18px;
         text-align: left;
+    }
+    #h3{
+        width: 400px;
+        margin-left: 10px;
+        margin-top: 40px;
     }
     #h4{
         font-family: 'Courgette', cursive;
@@ -674,9 +687,14 @@ h4{
     }
     .no{
         visibility: hidden;
+        width: 20px;
+        height: 0px;
     }
     #no{
         visibility: hidden;
+        width: 20px;
+        height: 0px;
+
     }
     .cuadro{
         border: 2px solid #A53F40;
@@ -687,7 +705,7 @@ h4{
         font-size: 18px;
         color:#A53F40;
         text-align: left;
-        width: 400px;
+        width: 300px;
     }
     #hotel2{
         width: 90%;
@@ -718,6 +736,7 @@ h4{
         color: #A53F40;
         margin-top: 20px;
         margin-bottom: 20px;
+        padding-left: 20px;
     }
     #textocuadro{
         font-family: 'Courgette', cursive;
@@ -748,16 +767,18 @@ h4{
     #referencia{
         color: grey;
         text-align: center;
-        width: 576px;
+        width: 500px;
+        margin-top: 80px;
     }
     .subreferencia{
         font-size: 28px;
         color: grey;
         font-family: 'Merienda', cursive;
         margin-left: 150px;
+        margin-bottom: 80px;
     }
     .subreferencia2{
-        margin-left: 150px;
+        margin-left: 160px;
         margin-top: 20px;
         font-size: 28px;
         color: #A53F40;
@@ -798,15 +819,18 @@ h4{
     }
     /*CONCLUCION*/
     #confinal{
-        margin-left: 90px;
+        margin-left: 0px;
     }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
+        width: 150px;
     }
     #atras a{
         text-decoration: none;
         color: #A53F40;
+        font-size: 21px;
+        padding-right: -30px;
     }
     #atras a:hover{
         text-decoration: underline;
@@ -820,10 +844,15 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
+        padding-top: -250px;
     }
     #despues a{
         text-decoration: none;
         color: #A53F40;
+        font-size: 21px;
+        padding-left: 0px;
+        margin-left: 0px;
+        width: 150px;
     }
     #despues a:hover{
         text-decoration: underline;
@@ -832,7 +861,6 @@ h4{
         width: 5%;
         margin-right: 10px;
         margin-bottom: 10px;
-    }
-     
+    } 
 }
 
