@@ -553,7 +553,7 @@ h4{
         margin-top: 30px;
         margin-bottom: 50px;
         width: 300px;
-        margin-left: -50px;
+        margin-left: -70px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -586,7 +586,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: -50px;    
+        margin-left: -20px;    
     }
     /*INVESTIGACION*/
     .ex{
@@ -594,12 +594,29 @@ h4{
         margin-left: 40px;
         text-align: center;
         font-size: 30px;
+        text-decoration: underline;
     }
     .bo{
         color: #A53F40;
         text-align: center;
         margin-left: 40px;
         font-size: 30px;
+        text-decoration: underline;
+    }
+    .grupo{
+        text-align: left;
+        font-family: 'Courgette', cursive;
+        font-size: 28px;
+        color: #CC6667;
+        text-align: center;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 300px;
+        margin-left: -20px;
+    }
+    #textb{
+        text-align: center;
+        margin-left: 50px;
     }
     #intro{
         background-color: #D2797A;
