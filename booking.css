@@ -430,6 +430,7 @@ h4{
 #mapa{
     width: 60%;
     border: solid 1px black;
+    margin-bottom: 60px;
 }
 /*VOZ Y TONO*/
 .voz{
@@ -476,15 +477,15 @@ h4{
     color: #A53F40;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: -800px;
+    margin-left: 50px;
     text-decoration: underline;
 }
 #cuadromood{
     background-color: rgba(204, 102, 103, 0.67);
     border-radius: 20px;
-    width: 1000px;
+    width: 350px;
     margin-top: 50px;
-    margin-left: 250px;
+    margin-left: 0px;
 }
 /*FLUJOS*/
 #descargar2{
@@ -499,10 +500,15 @@ h4{
     padding: 15px;
     border:2px solid #A53F40;
     border-radius: 30px;
-    margin-left: 400px;
+    margin-left: 0px;
+    width: 350px;
+}
+#flujo1{
+    width: 50%;
 }
 #objetivoflujo{
-    margin-left: -200px;
+    margin-left: 0px;
+    width: 350px;
 }
 /*CONCLUSION*/
 #conclusion2{
@@ -885,7 +891,7 @@ h4{
     /*RICO APP*/
 /*HEADER*/
 #rico0{
-    width: 20%;
+    width: 30%;
     display: inline-block;
     padding-top: 20px;
     padding-right: 20px;
@@ -898,9 +904,12 @@ h4{
     margin-top: 30px;
     border: solid 1px #A53F40;
 }
+#target{
+    width: 110%;
+}
 #palabras{
     margin-top: 40px;
-    width: 400px;
+    width: 350px;
 }
 #trip{
     width: 30%;
@@ -915,39 +924,45 @@ h4{
     font-family: 'Merienda', cursive;
     font-size: 28px;
     color:#A53F40;
+    margin-top: 20px;
 }
 #home0{
     margin-top: 50px;
     margin-bottom: 30px;
 }
 #home{
-    width: 70%;
+    width: 45%;
 }
 #home2{
-    width: 67%;
+    width: 45%;
     margin-top: -10px;
 }
 #forkrestro{
-    width: 50%;
+    width: 40%;
+    align-items: center;
+    margin-left: 150px;
 }
 #filtro{
-    width: 70%;
+    width: 47%;
 }
 #filtro2{
-    width: 65%;
+    width: 45%;
     margin-top: 5px;
-    margin-left: 30px; 
+    margin-left: 150px; 
     border: solid 1px black;
 }
 #filtro3{
-    width: 69%;
+    width: 45%;
     border: solid 1px black;
+    margin-left: 150px;
 }
 .optativo2{
     font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-right: 10px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 .optativo2b{
     font-family: 'Merienda', cursive;
@@ -955,6 +970,8 @@ h4{
     color:#A53F40;
     margin-left: 0px;
     margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 .optativo2c{
     font-family: 'Merienda', cursive;
@@ -962,23 +979,26 @@ h4{
     color:#A53F40;
     margin-left: 0px;
     margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 #comentarios{
-    width: 70%;
+    width: 45%;
 }
 #comentarios2{
-    width: 68%;
+    width: 45%;
     margin-top: 0px;
-    margin-left: 0px; 
+    margin-left: 150px; 
 }
 #comentarios3{
-    width: 69%;
+    width: 45%;
+    margin-left: 150px;
 }
 .optativo3{
     font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
-    margin-right: 10px;
+    margin-right: 0px;
     margin-top: 10px;
 }
 .optativo3b{
@@ -987,18 +1007,20 @@ h4{
     color:#A53F40;
     margin-left: 0px;
     margin-top: 5px;
+    text-align: center;
 }
 .optativo3c{
     font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
-    margin-left: 40px;
+    margin-left: 0px;
+    text-align: center;
     margin-top: 5px;
 }
 /*USER PERSONA*/
 .nombre{
     color: #A53F40;
-    width: 400px;
+    width: 350px;
 }
 #persona{
     height: 500px;
@@ -1008,7 +1030,7 @@ h4{
 #persona1{
     width: 45%;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 150px;
     text-align: center;
 }
@@ -1032,7 +1054,7 @@ h4{
     font-size: 18px;
     color:#A53F40;
     text-align: justify;
-    margin-left: 30px;
+    margin-left: 10px;
 }
 /*MOOD MAP*/
 .titulomap{
@@ -1047,9 +1069,9 @@ h4{
 }
 #mood{
     border: solid 1px #A53F40;
-    width: 500px;
+    width: 350px;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 10px;
 }
 .textomood{
     font-family: 'Merienda', cursive;
