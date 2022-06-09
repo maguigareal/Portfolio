@@ -948,13 +948,13 @@ h4{
 #filtro2{
     width: 45%;
     margin-top: 5px;
-    margin-left: 110px; 
+    margin-left: 100px; 
     border: solid 1px black;
 }
 #filtro3{
     width: 45%;
     border: solid 1px black;
-    margin-left: 110px;
+    margin-left: 100px;
 }
 .optativo2{
     font-family: 'Merienda', cursive;
@@ -988,11 +988,11 @@ h4{
 #comentarios2{
     width: 45%;
     margin-top: 0px;
-    margin-left: 110px; 
+    margin-left: 100px; 
 }
 #comentarios3{
     width: 45%;
-    margin-left: 110px;
+    margin-left: 100px;
 }
 .optativo3{
     font-family: 'Merienda', cursive;
@@ -1026,12 +1026,12 @@ h4{
     height: 500px;
     margin-left: 0px;
     margin-top: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 #persona1{
     width: 45%;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 150px;
     margin-left: 100px;
     text-align: center;
 }
@@ -1070,7 +1070,7 @@ h4{
 }
 #mood{
     border: solid 1px #A53F40;
-    width: 350px;
+    width: 300px;
     text-align: center;
     margin-left: 10px;
 }
@@ -1100,15 +1100,19 @@ h4{
 #cuadromood{
     background-color: rgba(204, 102, 103, 0.67);
     border-radius: 20px;
-    width: 1000px;
+    width: 450px;
     margin-top: 50px;
     margin-left: 250px;
 }
 /*FLUJOS*/
+#flujo1{
+    margin-left: 150px;
+}
 #descargar2{
     margin-top: 50px;
 }
 #descargar2 a{
+    width: 400px;
     background-color:#A53F40;
     color: white;
     text-decoration: none;
@@ -1117,10 +1121,10 @@ h4{
     padding: 15px;
     border:2px solid #A53F40;
     border-radius: 30px;
-    margin-left: 400px;
+    margin-left: 100px;
 }
 #objetivoflujo{
-    margin-left: -200px;
+    margin-left: 0px;
 }
 /*CONCLUSION*/
 #conclusion2{
