@@ -1031,7 +1031,7 @@ h4{
 #persona1{
     width: 45%;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 80px;
     margin-left: 100px;
     text-align: center;
 }
@@ -1094,7 +1094,7 @@ h4{
     color: #A53F40;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: -800px;
+    margin-left: 0px;
     text-decoration: underline;
 }
 #cuadromood{
@@ -1102,7 +1102,7 @@ h4{
     border-radius: 20px;
     width: 450px;
     margin-top: 50px;
-    margin-left: 250px;
+    margin-left: 0px;
 }
 /*FLUJOS*/
 #flujo1{
