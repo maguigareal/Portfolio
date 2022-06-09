@@ -948,13 +948,13 @@ h4{
 #filtro2{
     width: 45%;
     margin-top: 5px;
-    margin-left: 150px; 
+    margin-left: 110px; 
     border: solid 1px black;
 }
 #filtro3{
     width: 45%;
     border: solid 1px black;
-    margin-left: 150px;
+    margin-left: 110px;
 }
 .optativo2{
     font-family: 'Merienda', cursive;
@@ -988,11 +988,11 @@ h4{
 #comentarios2{
     width: 45%;
     margin-top: 0px;
-    margin-left: 150px; 
+    margin-left: 110px; 
 }
 #comentarios3{
     width: 45%;
-    margin-left: 150px;
+    margin-left: 110px;
 }
 .optativo3{
     font-family: 'Merienda', cursive;
@@ -1020,18 +1020,19 @@ h4{
 /*USER PERSONA*/
 .nombre{
     color: #A53F40;
-    width: 350px;
+    width: 300px;
 }
 #persona{
     height: 500px;
     margin-left: 0px;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 #persona1{
     width: 45%;
     align-items: center;
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 100px;
     text-align: center;
 }
 .opciones{
