@@ -1106,7 +1106,7 @@ h4{
 }
 /*FLUJOS*/
 #flujo1{
-    margin-left: 150px;
+    margin-left: 80px;
 }
 #descargar2{
     margin-top: 50px;
@@ -1121,7 +1121,7 @@ h4{
     padding: 15px;
     border:2px solid #A53F40;
     border-radius: 30px;
-    margin-left: 100px;
+    margin-left: 80px;
 }
 #objetivoflujo{
     margin-left: 0px;
@@ -1129,6 +1129,7 @@ h4{
 /*CONCLUSION*/
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
+    width: 500px;
 }
 #conclutitulo{
     margin-top: 20px;
