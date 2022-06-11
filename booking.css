@@ -894,7 +894,7 @@ h4{
     width: 35%;
     display: inline-block;
     padding-top: 20px;
-    padding-right: 10px;
+    padding-right: 5px;
 }
 /*PRODUCTO*/
 #mining{
@@ -1031,7 +1031,7 @@ h4{
 #persona1{
     width: 45%;
     align-items: center;
-    margin-top: 80px;
+    margin-top: 100px;
     margin-left: 100px;
     text-align: center;
 }
@@ -1132,6 +1132,7 @@ h4{
 }
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
+    width: 450px;
 }
 #conclutitulo{
     margin-top: 20px;
