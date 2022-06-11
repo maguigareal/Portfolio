@@ -941,6 +941,7 @@ h4{
     width: 40%;
     align-items: center;
     margin-left: 100px;
+    margin-bottom: 20px;
 }
 #filtro{
     width: 47%;
@@ -1022,6 +1023,9 @@ h4{
     color: #A53F40;
     width: 300px;
 }
+#titulito{
+    margin-bottom: -50px;
+}
 #persona{
     height: 500px;
     margin-left: 0px;
@@ -1029,9 +1033,9 @@ h4{
     margin-bottom: 100px;
 }
 #persona1{
-    width: 45%;
+    width: 42%;
     align-items: center;
-    margin-top: 100px;
+    margin-top: 150px;
     margin-left: 100px;
     text-align: center;
 }
@@ -1128,7 +1132,7 @@ h4{
 }
 /*CONCLUSION*/
 #conclusion{
-    width: 576px;
+    width: 500px;
 }
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
