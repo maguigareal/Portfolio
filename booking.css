@@ -891,10 +891,10 @@ h4{
     /*RICO APP*/
 /*HEADER*/
 #rico0{
-    width: 30%;
+    width: 35%;
     display: inline-block;
     padding-top: 20px;
-    padding-right: 20px;
+    padding-right: 10px;
 }
 /*PRODUCTO*/
 #mining{
@@ -905,7 +905,7 @@ h4{
     border: solid 1px #A53F40;
 }
 #target{
-    width: 110%;
+    width: 115%;
 }
 #palabras{
     margin-top: 40px;
@@ -940,7 +940,7 @@ h4{
 #forkrestro{
     width: 40%;
     align-items: center;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 #filtro{
     width: 47%;
@@ -1127,9 +1127,11 @@ h4{
     margin-left: 0px;
 }
 /*CONCLUSION*/
+#conclusion{
+    width: 576px;
+}
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
-    width: 500px;
 }
 #conclutitulo{
     margin-top: 20px;
