@@ -1023,19 +1023,16 @@ h4{
     color: #A53F40;
     width: 300px;
 }
-#titulito{
-    margin-bottom: -100px;
-}
 #persona{
-    height: 500px;
+    height: 800px;
     margin-left: 0px;
     margin-top: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 #persona1{
     width: 42%;
     align-items: center;
-    margin-top: 180px;
+    margin-top: 50px;
     margin-left: 100px;
     text-align: center;
 }
@@ -1132,11 +1129,11 @@ h4{
 }
 /*CONCLUSION*/
 #conclusion{
-    width: 450px;
+    width: 400px;
 }
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
-    width: 450px;
+    width: 400px;
 }
 #conclutitulo{
     margin-top: 20px;
