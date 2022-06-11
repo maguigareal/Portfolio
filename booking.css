@@ -891,7 +891,7 @@ h4{
     /*RICO APP*/
 /*HEADER*/
 #rico0{
-    width: 35%;
+    width: 30%;
     display: inline-block;
     padding-top: 20px;
     padding-right: 5px;
@@ -1024,7 +1024,7 @@ h4{
     width: 300px;
 }
 #titulito{
-    margin-bottom: -50px;
+    margin-bottom: -100px;
 }
 #persona{
     height: 500px;
@@ -1035,7 +1035,7 @@ h4{
 #persona1{
     width: 42%;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 180px;
     margin-left: 100px;
     text-align: center;
 }
@@ -1132,7 +1132,7 @@ h4{
 }
 /*CONCLUSION*/
 #conclusion{
-    width: 500px;
+    width: 450px;
 }
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
