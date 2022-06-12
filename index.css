@@ -264,7 +264,7 @@ h3{
     margin-left: 50px;
 }
 
-/*INDEX RESPONSIVE*/
+/*RESPONSIVE 1024*/
 @media (max-width: 1024px){
     *{
         max-width: 1024px;
@@ -515,7 +515,7 @@ h3{
     }
 }
 
-/*INDEX RESPONSIVE*/
+/*RESPONSIVE*/
 @media (max-width: 576px){
     *{
         padding: 0%;
