@@ -593,21 +593,21 @@ h4{
     }
     /*PROTOTIPO*/
     #baja img{
-        width: 30%;
+        width: 20%;
         display: inline-block;
-        margin-left: 10px;
+        margin-left: 20px;
     }
     #proto1{
-        height: 100%;
+        height: 95%;
     }
     #proto2{
-        height: 100%;
+        height: 97%;
     }
     #proto3{
-        height: 100%;
+        height: 96%;
     }
     #proto4{
-        height: 100%;
+        height: 98%;
     }
     #proto4{
         height: 0px;
