@@ -1133,11 +1133,11 @@ h4{
 /*CONCLUSION*/
 #conclusion{
     width: 300px;
-    margin-left: -100px;
+    margin-left: -150px;
 }
 #conclusion2{
     background-color: rgba(210, 121, 122, 0.37);
-    width: 400px;
+    width: 300px;
 }
 #conclutitulo{
     margin-top: 20px;
