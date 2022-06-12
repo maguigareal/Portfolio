@@ -217,7 +217,7 @@ h4{
     margin-left: 20px;
 }
 /*CONCLUSION*/
-#conclucion0{
+#conclusion0{
     background-color: rgba(210, 121, 122, 0.37);
     margin-top: 80px;
 }
@@ -449,131 +449,9 @@ h4{
         margin-bottom: 30px;
     }
     /*ATRAPALO*/
-#pc{
-    width: 50%;
-    margin-top: 0%;
-}
-/*INVESTIGACION*/
-.card{
-    border: white;
 
 }
-#h4{
-    font-family: 'Courgette', cursive;
-    font-size: 22px;
-    color: #CC6667;
-    text-align: left;
-    text-decoration: underline;
-    margin-top: 30px;
-    margin-bottom: 10px;
-    width: 400px;
-}
-#conver{
-    width: 35%;
-    margin-top: 50px;
-    margin-left: 50px;
-}
-/*PRODUCTO*/
-#pasos{
-    width: 80%;
-    margin-bottom: 30px;
-    margin-top: 30px;
-}
-/*LISTA DE PROBLEMAS*/
-#lista3{
-    margin-left: 500px;
-    margin-top: -750px;
-    width: 100%;
-}
-#num{
-    width: 40%;
-    margin-top: 10px;
-    margin-left: 50px;
-}
-/*METRICAS CUANTITATIVAS*/
-#texto2{
-    font-family: 'Merienda', cursive;
-    font-size: 22px;
-    color:#A53F40;
-    text-align: left;
-}
-#porcentaje{
-    margin-bottom: 0%;
-    margin-top: 20px;
-}
-#cuadro{
-    border: 2px solid #A53F40;
-    margin-top: 50px;
-    justify-content: center;
-}
-#h3{
-    margin-left: 100px;
-    padding-right: 0px;
-}
-#tp{
-    margin-left: 100px;
-    padding-right: 0px;
-}
-#grafico{
-    width: 80%;
-}
-#grafico2{
-    width: 40%;
-}
-#cuadro2{
-    border: 2px solid #A53F40;
-    margin-top: 50px;
-    margin-left: 400px;
-    padding: 10px;
-    justify-content: center;
-    width: 50%;
-}
-#grafico3{
-    width: 50%;
-    margin-bottom: 30px;
-}
-#todo{
-    border: 2px solid #A53F40;
-    width: 1000px;
-    margin-top: 50px;
-    margin-left: 250px;
-}
-#todo2{
-    border: 2px solid #A53F40;
-    width: 1250px;
-    margin-top: 50px;
-    margin-left: 150px;
-}
-#card{
-    padding-left: 50px;
-}
-#pasos{
-    justify-content: center;
-    margin-left: 50px;
-}
-#grafico4{
-    width: 80%;
-    margin-top: 50px;
-}
-#grafico5{
-    width: 50%;
-    margin-bottom: 30px;
-}
-/*PROYECTOS*/
-.pasos{
-    margin:0%;
-    display: inline-block;
-}
-#antes1{
-    width: 6%;
-    margin-right: 10px;
-}
-#despues1{
-    width: 10%;
-    margin-left: 10px;
-}
-
-}
+/*RESPONSIVE 576PX*/
 @media (max-width: 576px){
     *{
         padding: 0%;
@@ -589,7 +467,6 @@ h4{
     }
     /*CONSORCIO*/
     /*MAIN*/
-
     h1{
         font-family: 'Courgette', cursive;
         font-size: 50px;
@@ -775,12 +652,12 @@ h4{
         margin-left: 50px;
     }
     /*CONCLUCION*/
-    #conclucion0{
+    #conclusion0{
         background-color: rgba(210, 121, 122, 0.37);
         margin-top: 80px;
         max-width: 576px;
     }
-    #conclucion{
+    #conclusion{
         max-width: 576px;
     }
     #atras,h3,img{
