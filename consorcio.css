@@ -614,9 +614,9 @@ h4{
         visibility: hidden;
     }
     .subtitu{
-        margin-top: 80px;
+        margin-top: 100px;
         width: 200px;
-        margin-left: -10px;
+        margin-left: 0px;
     }
     #prototipo1{
         width: 80%;
