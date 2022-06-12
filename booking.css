@@ -1051,6 +1051,9 @@ h4{
     border: solid 1px black;
 }
 /*VOZ Y TONO*/
+#vozytono h2{
+    margin-top: -60px;
+}
 .voz{
     font-family: 'Merienda', cursive;
     font-size: 18px;
