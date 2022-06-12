@@ -342,6 +342,7 @@ h3{
         width: 150px;
         margin-top: 40px;
         margin-left: -100px;
+        padding-left: -200px;
         margin-right: 0px;
     }
     #verproyecto{
@@ -515,7 +516,7 @@ h3{
     }
 }
 
-/*RESPONSIVE*/
+/*RESPONSIVE 576px*/
 @media (max-width: 576px){
     *{
         padding: 0%;
@@ -606,6 +607,7 @@ h3{
         margin-top: 40px;
         margin-left: -10px;
         margin-right: 0px;
+        padding-left: 0px;
     }
     #verproyecto{
         max-width: 280px;
