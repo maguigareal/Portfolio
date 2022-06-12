@@ -267,10 +267,10 @@ h3{
 /*RESPONSIVE 1024*/
 @media (max-width: 1024px){
     *{
-        max-width: 1024px;
+        width: 1024px;
     }
     h1{
-        max-width: 500px;
+        width: 500px;
         margin-left: 0px;
         margin-top: 50px;
         margin-bottom: 50px;
@@ -292,7 +292,7 @@ h3{
         margin-top: 20px;
         margin-bottom: 50px;
         margin-left: 0px;
-        width: 350px;
+        width: 200px;
         padding: 0px;
     }
     #fotointro{
@@ -341,7 +341,7 @@ h3{
         text-align: center;
         width: 200px;
         margin-top: 40px;
-        margin-left: -100px;
+        margin-left: 0px;
         margin-right: 0px;
     }
     #verproyecto{
