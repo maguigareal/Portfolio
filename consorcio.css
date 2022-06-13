@@ -682,7 +682,7 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        width: 300px;
+        width: 200px;
     }
     #despues a{
         text-decoration: none;
@@ -746,7 +746,7 @@ h4{
         width: 90%;
         margin-bottom: 30px;
         margin-top: 30px;
-        margin-left: 0px;
+        margin-left: -10px;
     }
     /*LISTA DE PROBLEMAS*/
     #lista3{
