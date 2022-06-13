@@ -651,7 +651,7 @@ h4{
         border-radius: 30px;
         margin-left: 50px;
     }
-    /*CONCLUCION*/
+    /*CONCLUSION*/
     #conclusion0{
         background-color: rgba(210, 121, 122, 0.37);
         margin-top: 80px;
@@ -675,14 +675,14 @@ h4{
     }
     #atras img{
         width: 5%;
-        margin-right: 10px;
+        margin-right: 5px;
         margin-bottom: 10px;
     }
     #despues,h3,img{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        padding-top: -250px;
+        width: 300px;
     }
     #despues a{
         text-decoration: none;
@@ -779,7 +779,7 @@ h4{
         width: 350px;
     }
     #h3{
-        margin-left: 5px;
+        margin-left: -20px;
         padding-right: 0px;
         width: 300px;
     }
