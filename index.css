@@ -23,12 +23,12 @@
 }
 .nav-item a{
     color: #A53F40;
-    margin-right: 5px;
+    margin-right: 0px;
     font-family: 'Courgette', cursive;
     font-style: bold;
     font-size: 20px;
     padding: 10px;
-    width: 160px;
+    width: 150px;
 }
 .navbar-light .navbar-toggler {
     color: #A53F40;
@@ -228,7 +228,7 @@ h3{
 }
 .texto1{
     margin: 50px;
-    font-family: 'Courgette', cursive;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     color: #A53F40;
 }
@@ -237,19 +237,25 @@ h3{
 }
 #masinfo p{
     margin: 50px;
-    font-family: 'Courgette', cursive;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     color: #A53F40;
 }
 #descargar a{
     background-color: #CC6667;
     color: white;
+    font: 20px;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    padding: 10px;
-    border-radius: 20px;
+    padding: 15px;
+    border-radius: 25px;
     margin-left: 240px;
     text-align: center;
+}
+#descargar a:hover{
+    color: #A53F40;
+    background-color: white;
+    border: 3px solid #A53F40;
 }
 #contacto .row{
     margin: 0%;
@@ -261,10 +267,10 @@ h3{
     justify-content: center;
 }
 #pajaros img{
-    width: 65%;
+    width: 75%;
     padding: 0%;
     display: block;
-    margin-top: 200px;
+    margin-top: 100px;
     margin-left: 50px;
 }
 
