@@ -23,12 +23,12 @@
 }
 .nav-item a{
     color: #A53F40;
-    margin-right: 10px;
-    font-family:'Merienda', cursive;
+    margin-right: 5px;
+    font-family: 'Courgette', cursive;
     font-style: bold;
-    font-size: 18px;
+    font-size: 20px;
     padding: 10px;
-    width: 120px;
+    width: 160px;
 }
 .navbar-light .navbar-toggler {
     color: #A53F40;
@@ -58,7 +58,7 @@ h2{
     width: 500px;
 }
 h3{
-    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
     font-size: 18px;
     color: #BB4760;
     text-align: left;
@@ -77,15 +77,16 @@ h3{
     background-color: #A53F40 ;
     color: white;
     text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    border-radius: 30px;
     margin-left: 150px;
 }
 /*CONSORCIO*/
 #consorcio{
     background: rgba(210, 121, 122, 0.37);
     margin-top: 60px;
+    padding: 30px;
 }
 #consorcio img{
     width: 30%;
@@ -118,9 +119,9 @@ h3{
     border: 3px solid #A53F40;
     color: #A53F40;
     text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    border-radius: 25px;
     margin-left: 240px;
     text-align: center;
 }
@@ -132,6 +133,7 @@ h3{
 #atrapalo{
     background: rgba(210, 121, 122, 0.37);
     margin-top: 60px;
+    padding: 30px;
 }
 #atrapalo img{
     width: 70%;
@@ -151,6 +153,7 @@ h3{
 #booking{
     background: rgba(210, 121, 122, 0.37);
     margin-top: 60px;
+    padding: 30px;
 }
 #booking img{
     width: 80%;
@@ -160,6 +163,7 @@ h3{
 #rico{
     background: rgba(210, 121, 122, 0.37);
     margin-top: 60px;
+    padding: 30px;
 }
 #rico img{
     width: 30%;
@@ -190,9 +194,9 @@ h3{
     border: 3px solid #A53F40 ;
     color: white;
     text-decoration: none;
-    font-family: 'Merienda', cursive;
-    padding: 10px;
-    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    border-radius: 25px;
     margin-left: 240px;
 }
 #vertrabajos a:hover{
@@ -241,7 +245,7 @@ h3{
     background-color: #CC6667;
     color: white;
     text-decoration: none;
-    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
     padding: 10px;
     border-radius: 20px;
     margin-left: 240px;
@@ -436,7 +440,6 @@ h3{
         border: 3px solid #A53F40 ;
         color: white;
         text-decoration: none;
-        font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
         margin-left: 50px;
@@ -474,7 +477,6 @@ h3{
     }
     .texto1{
         margin: 50px;
-        font-family: 'Courgette', cursive;
         font-size: 18px;
         color: #A53F40;
     }
@@ -493,7 +495,6 @@ h3{
         background-color: #CC6667;
         color: white;
         text-decoration: none;
-        font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
         margin-left: 150px;
@@ -569,12 +570,13 @@ h3{
     #contactame{
         padding: 5px;
         justify-content: center;
-        margin-top: 50px;
+        margin-top: 30px;
         margin-left: 50px;
         width: 200px;
     }
     #contactame a{
         margin-left: 50px;
+        font-size: 20px;
     }
     /*CONSORCIO*/
     #consorcio{
@@ -616,6 +618,7 @@ h3{
     #verproyecto a{
         margin-left: 100px;
         justify-content: center;
+        padding: 10px;
     }
     /*ATRAPALO*/
     #atrapalo{
@@ -699,7 +702,6 @@ h3{
         border: 3px solid #A53F40 ;
         color: white;
         text-decoration: none;
-        font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 20px;
         margin-left: 50px;
@@ -757,7 +759,6 @@ h3{
         background-color: #CC6667;
         color: white;
         text-decoration: none;
-        font-family: 'Merienda', cursive;
         padding: 10px;
         border-radius: 50px;
         margin-left: 90px;
