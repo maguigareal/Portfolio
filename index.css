@@ -552,7 +552,7 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 5px;
+        margin-left: 10px;
         width: 300px;
         padding: 0px;
     }
@@ -605,7 +605,7 @@ h3{
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: -5px;
     }
     .subtitulo{
         font-size: 18px;
@@ -622,7 +622,7 @@ h3{
         text-align: center;
     }
     #verproyecto a{
-        margin-left: 95px;
+        margin-left: 90px;
         justify-content: center;
     }
     /*ATRAPALO*/
@@ -636,7 +636,7 @@ h3{
         padding-top: 20px;
     }
     .titulo2{
-        max-width: 350px;
+        max-width: 330px;
         font-size: 48px;
         text-align: center;
         margin-top: 50px;
