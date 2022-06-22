@@ -680,7 +680,7 @@ h3{
     #bonus{
         background-color: rgba(204, 102, 103, 0.67);
         margin-top: 60px;
-        height: 250px;
+        height: 300px;
         max-width: 576px;
     }
     .titulo3{
@@ -697,6 +697,7 @@ h3{
         text-align: center;
         margin-top: 40px;
         margin-left: 0px;
+        max-width: 340px;
     }
     #vertrabajos{
         margin-left: 0px;
