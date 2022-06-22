@@ -552,7 +552,7 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: 5px;
         width: 300px;
         padding: 0px;
     }
@@ -577,11 +577,11 @@ h3{
         padding: 5px;
         justify-content: center;
         margin-top: 30px;
-        margin-left: 50px;
+        margin-left: 45px;
         width: 200px;
     }
     #contactame a{
-        margin-left: 50px;
+        margin-left: 45px;
         font-size: 20px;
     }
     /*CONSORCIO*/
@@ -618,11 +618,11 @@ h3{
     #verproyecto{
         max-width: 280px;
         margin-top: -50px;
-        margin-left: -10px;
+        margin-left: -15px;
         text-align: center;
     }
     #verproyecto a{
-        margin-left: 100px;
+        margin-left: 95px;
         justify-content: center;
     }
     /*ATRAPALO*/
