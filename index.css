@@ -552,7 +552,7 @@ h3{
         justify-content: center;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-left: 10px;
+        margin-left: 15px;
         width: 300px;
         padding: 0px;
     }
@@ -605,7 +605,7 @@ h3{
         padding: 0px;
         margin-top: 50px;
         margin-bottom: 20px;
-        margin-left: -5px;
+        margin-left: -10px;
     }
     .subtitulo{
         font-size: 18px;
@@ -617,7 +617,7 @@ h3{
     }
     #verproyecto{
         max-width: 280px;
-        margin-top: -50px;
+        margin-top: -40px;
         margin-left: -15px;
         text-align: center;
     }
@@ -641,7 +641,7 @@ h3{
         text-align: center;
         margin-top: 50px;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: -10px;
         padding-right: 0px;
     }
     /*ATRAPALO*/
