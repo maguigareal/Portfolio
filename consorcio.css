@@ -665,6 +665,7 @@ h4{
         display: inline-block;
         text-align: left;
         width: 150px;
+        margin-top: 0px;
     }
     #atras a{
         text-decoration: none;
@@ -673,7 +674,7 @@ h4{
         padding-right: -30px;
         margin-right: -20px;
         margin-top: 0px;
-        width: 100px;
+        width: 50px;
     }
     #atras a:hover{
         text-decoration: underline;
