@@ -486,11 +486,11 @@ h4{
         font-family: 'Courgette', cursive;
         font-size: 28px;
         color: #CC6667;
-        text-align: left;
+        text-align: center;
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: -10px;
+        margin-left: -20px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -522,6 +522,7 @@ h4{
     #entrevista{
         width: 100%;
         margin-bottom: 20px;
+        margin-left: 0px;
     }
     #nuevahipo{
         border: 1px solid #CC6667;
@@ -550,6 +551,7 @@ h4{
     .persona{
         width: 100%;
         margin-top: 0px;
+        margin-left: 0px;
     }
     #definicionproblema{
         background-color: rgba(204, 102, 103, 0.67);
@@ -619,14 +621,20 @@ h4{
     #prototipo1{
         width: 80%;
         margin-bottom: 30px;
+        justify-items: center;
+        margin-left: 0px;
     }
     #prototipo3{
         width: 80%;
         margin-bottom: 30px;
+        justify-items: center;
+        margin-left: 0px;
     }
     #prototipo3d{
         width: 60%;
         margin-bottom: 30px;
+        justify-items: center;
+        margin-left: 0px;
     }
     /*PROTOTIPO FINAL*/
     #app{
@@ -667,8 +675,8 @@ h4{
         text-decoration: none;
         color: #A53F40;
         font-size: 21px;
-        padding-right: 30px;
-        margin-right: 20px;
+        padding-right: 0px;
+        margin-right: 0px;
         margin-top: 0px;
         width: 0px;
     }
@@ -693,7 +701,7 @@ h4{
         font-size: 21px;
         padding-left: 0px;
         margin-left: 0px;
-        width: 150px;
+        width: 0px;
     }
     #despues a:hover{
         text-decoration: underline;
