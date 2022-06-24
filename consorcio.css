@@ -658,7 +658,7 @@ h4{
         max-width: 576px;
     }
     #final{
-        width: 300px;
+        width: 500px;
         display: inline-block;
     }
     #atras,h3,img{
@@ -671,6 +671,7 @@ h4{
         color: #A53F40;
         font-size: 21px;
         padding-right: -30px;
+        margin-right: -20px;
         width: 100px;
     }
     #atras a:hover{
