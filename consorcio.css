@@ -658,13 +658,12 @@ h4{
         max-width: 576px;
     }
     #final{
-        width: 300px;
         display: inline-block;
     }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
-        width: 100px;
+        width: 150px;
     }
     #atras a{
         text-decoration: none;
