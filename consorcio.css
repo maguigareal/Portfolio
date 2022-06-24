@@ -490,7 +490,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: 0px;
+        margin-left: 100px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -643,11 +643,7 @@ h4{
         width: 30%;
         display: inline-block;
         padding-top: 20px;
-        justify-content: center;
-    }
-    #protofinal img{
-        display: inline-block;
-        padding-top: 20px;
+        margin-left: 0px;
     }
     #descargar2{
         margin-top: 50px;
@@ -672,6 +668,9 @@ h4{
     #conclusion{
         max-width: 576px;
     }
+    #final{
+        margin-left: 0px;
+    }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
@@ -682,7 +681,7 @@ h4{
         text-decoration: none;
         color: #A53F40;
         font-size: 21px;
-        padding-right: 0px;
+        padding-right: -30px;
         margin-right: 0px;
         margin-top: 0px;
         width: 0px;
