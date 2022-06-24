@@ -657,6 +657,10 @@ h4{
     #conclusion{
         max-width: 576px;
     }
+    #final{
+        width: 576px;
+        display: inline-block;
+    }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
@@ -666,6 +670,7 @@ h4{
         color: #A53F40;
         font-size: 21px;
         padding-right: -30px;
+        width: 100px;
     }
     #atras a:hover{
         text-decoration: underline;
@@ -698,10 +703,6 @@ h4{
         margin-bottom: 10px;
     }
     /*FOOTER*/
-    #final{
-        width: 576px;
-        display: inline-block;
-    }
     #contacto{
         margin-top: 60px;
         height: 150px;
