@@ -490,7 +490,8 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: -20px;
+        margin-left: -50px;
+        width: 500px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -522,7 +523,8 @@ h4{
     #entrevista{
         width: 100%;
         margin-bottom: 20px;
-        margin-left: 0px;
+        margin-left: -30px;
+        justify-content: center;
     }
     #nuevahipo{
         border: 1px solid #CC6667;
@@ -641,6 +643,7 @@ h4{
         width: 30%;
         display: inline-block;
         padding-top: 20px;
+        justify-content: center;
     }
     #descargar2{
         margin-top: 50px;
