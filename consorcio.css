@@ -657,14 +657,10 @@ h4{
     #conclusion{
         max-width: 576px;
     }
-    .atras2{
-        width: 100px;
-        margin-right: -30px;
-    }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
-        width: 150px;
+        width: 0px;
         margin-top: 0px;
     }
     #atras a{
@@ -674,7 +670,7 @@ h4{
         padding-right: -30px;
         margin-right: -20px;
         margin-top: 0px;
-        width: 50px;
+        width: 0px;
     }
     #atras a:hover{
         text-decoration: underline;
@@ -688,7 +684,7 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        width: 200px;
+        width: 0px;
     }
     #despues a{
         text-decoration: none;
