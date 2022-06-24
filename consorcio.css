@@ -658,19 +658,19 @@ h4{
         max-width: 576px;
     }
     #final{
-        width: 576px;
+        width: 300px;
         display: inline-block;
     }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
+        width: 100px;
     }
     #atras a{
         text-decoration: none;
         color: #A53F40;
         font-size: 21px;
         padding-right: -30px;
-        width: 100px;
     }
     #atras a:hover{
         text-decoration: underline;
