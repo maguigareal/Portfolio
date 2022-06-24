@@ -674,40 +674,27 @@ h4{
     #atras,h3,img{
         display: inline-block;
         text-align: left;
-        width: 0px;
-        margin-top: 0px;
     }
     #atras a{
         text-decoration: none;
         color: #A53F40;
-        font-size: 21px;
-        padding-right: -30px;
-        margin-right: 0px;
-        margin-top: 0px;
-        width: 0px;
     }
     #atras a:hover{
         text-decoration: underline;
     }
     #atras img{
         width: 5%;
-        margin-right: 5px;
+        margin-right: 10px;
         margin-bottom: 10px;
     }
     #despues,h3,img{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        width: 0px;
-        margin-left: 150px;
     }
     #despues a{
         text-decoration: none;
         color: #A53F40;
-        font-size: 21px;
-        padding-left: 0px;
-        margin-left: 0px;
-        width: 0px;
     }
     #despues a:hover{
         text-decoration: underline;
