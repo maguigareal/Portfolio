@@ -657,6 +657,9 @@ h4{
     #conclusion{
         max-width: 576px;
     }
+    .atras2{
+        width: 100px;
+    }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
