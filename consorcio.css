@@ -667,8 +667,8 @@ h4{
         text-decoration: none;
         color: #A53F40;
         font-size: 21px;
-        padding-right: -30px;
-        margin-right: -20px;
+        padding-right: 30px;
+        margin-right: 20px;
         margin-top: 0px;
         width: 0px;
     }
@@ -685,6 +685,7 @@ h4{
         text-align: right;
         text-decoration: none;
         width: 0px;
+        margin-left: 150px;
     }
     #despues a{
         text-decoration: none;
