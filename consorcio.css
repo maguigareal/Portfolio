@@ -588,7 +588,7 @@ h4{
     }
     #descargar{
         margin-left: 0px; 
-        margin-top: 20px;
+        margin-top: 40px;
         margin-bottom: 20px;
     }
     #descargar a{
@@ -598,7 +598,7 @@ h4{
         padding: 10px;
         border:2px solid #A53F40;
         border-radius: 20px;
-        margin-left: -210px;
+        margin-left: -220px;
     }
     /*PROTOTIPO*/
     #baja img{
@@ -623,7 +623,7 @@ h4{
         visibility: hidden;
     }
     .subtitu{
-        margin-top: 100px;
+        margin-top: 70px;
         width: 200px;
         margin-left: 40px;
     }
@@ -654,7 +654,7 @@ h4{
     }
     #descargar2{
         margin-top: 50px;
-        margin-left: -100px;
+        margin-left: -120px;
     }
     #descargar2 a{
         background-color:#A53F40;
