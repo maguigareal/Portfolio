@@ -674,7 +674,7 @@ h4{
     #atras,h3,img{
         display: inline-block;
         text-align: left;
-        width: 50px;
+        width: 100px;
     }
     #atras a{
         text-decoration: none;
@@ -692,7 +692,7 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        width: 50px;
+        width: 100px;
     }
     #despues a{
         text-decoration: none;
