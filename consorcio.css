@@ -410,17 +410,14 @@ h4{
     }
     #descargar{
     width: 500px;
-    margin-left: 400px; 
+    margin-left: 420px; 
     margin-top: 30px;
     }
     #descargar a{
-        background-color: white;
-        color: #A53F40;
-        text-decoration: none;
-        padding: 10px;
-        border:2px solid #A53F40;
-        border-radius: 20px;
-        margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 20px;
     }
     /*PROTOTIPO*/
     #baja img{
