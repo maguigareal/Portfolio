@@ -584,7 +584,7 @@ h4{
         margin-bottom: 50px;
     }
     #descargar{
-        margin-left: 30px; 
+        margin-left: 20px; 
         margin-top: 40px;
         margin-bottom: 20px;
         justify-content: center;
@@ -592,7 +592,7 @@ h4{
     #descargar a{
         justify-content: center;
         padding: 10px;
-        margin-left: -180px;
+        margin-left: -150px;
     }
     /*PROTOTIPO*/
     #baja img{
@@ -688,6 +688,7 @@ h4{
         width: 10%;
         margin-right: 10px;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
     #despues,h3,img{
         display: inline-block;
@@ -709,6 +710,7 @@ h4{
         width: 10%;
         margin-right: 10px;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
     /*FOOTER*/
     #contacto{
