@@ -225,13 +225,13 @@ h4{
     display: inline-block;
     text-align: left;
 }
-/*#atras a{
+#atras a{
     text-decoration: none;
     color: #A53F40;
 }
 #atras a:hover{
     text-decoration: underline;
-}*/
+}
 #atras img{
     width: 5%;
     margin-right: 10px;
@@ -249,13 +249,13 @@ h4{
 .flecha a:hover{
     text-decoration: underline;
 }
-/*#despues a{
+#despues a{
     text-decoration: none;
     color: #A53F40;
 }
 #despues a:hover{
     text-decoration: underline;
-}*/
+}
 #despues img{
     width: 5%;
     margin-right: 10px;
@@ -694,7 +694,7 @@ h4{
         text-decoration: underline;
     }
     #atras img{
-        width: 5%;
+        width: 10%;
         margin-right: 10px;
         margin-bottom: 10px;
     }
@@ -715,7 +715,7 @@ h4{
         text-decoration: underline;
     }
     #despues img{
-        width: 5%;
+        width: 10%;
         margin-right: 10px;
         margin-bottom: 10px;
     }
