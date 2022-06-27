@@ -490,7 +490,7 @@ h4{
         text-decoration: underline;
         margin-top: 30px;
         margin-bottom: 50px;
-        margin-left: 100px;
+        margin-left: 50px;
     }
     h4{
         font-family: 'Courgette', cursive;
@@ -674,6 +674,7 @@ h4{
     #atras,h3,img{
         display: inline-block;
         text-align: left;
+        width: 200px;
     }
     #atras a{
         text-decoration: none;
@@ -691,6 +692,7 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
+        width: 150px;
     }
     #despues a{
         text-decoration: none;
