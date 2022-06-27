@@ -704,14 +704,14 @@ h4{
         margin: 0px;
         margin-bottom: 20px;
     }
-    /*#despues a{
+    #despues a{
         text-decoration: none;
         color: #A53F40;
         margin: 0px;
     }
     #despues a:hover{
         text-decoration: underline;
-    }*/
+    }
     #despues img{
         width: 5%;
         margin-right: 10px;
