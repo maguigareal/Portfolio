@@ -452,6 +452,13 @@ h4{
         margin-bottom: 30px;
     }
     /*ATRAPALO*/
+    #todo2{
+        border: 2px solid #A53F40;
+        width: 1024px;
+        margin-top: 50px;
+        margin-left: 0px;
+        text-align: center;
+    }
 
 }
 /*RESPONSIVE 576PX*/
