@@ -790,7 +790,9 @@ h4{
         width: 350px;
     }
     #h3{
+        margin-top: -50px;
         margin-left: -20px;
+        text-align: left;
         padding-right: 0px;
         width: 300px;
     }
