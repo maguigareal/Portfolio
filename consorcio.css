@@ -709,7 +709,7 @@ h4{
         text-decoration: underline;
     }
     #despues img{
-        width: 10%;
+        width: 5%;
         margin-right: 0px;
         margin-bottom: 0px;
         margin-top: 0px;
@@ -739,7 +739,7 @@ h4{
         border: white;
     }
     #cardbody{
-        margin-top: -50px;
+        margin-top: -100px;
     }
     #h4{
         font-family: 'Courgette', cursive;
@@ -797,7 +797,7 @@ h4{
     }
     #h3{
         margin-top: 10px;
-        margin-left: 0px;
+        margin-left: 10px;
         text-align: left;
         padding-right: 0px;
         width: 300px;
@@ -845,7 +845,8 @@ h4{
     }
     #grafico4{
         width: 0%;
-        margin-top: 0px;
+        height: 0px;
+        margin-top: -80px;
         visibility: hidden;
     }
     #grafico5{
