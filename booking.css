@@ -22,13 +22,13 @@
    color: #A53F40;
 }
 .nav-item a{
-   color: #A53F40;
-   margin-right: 10px;
-   font-family:'Merienda', cursive;
-   font-style: bold;
-   font-size: 18px;
-   padding: 10px;
-   width: 120px;
+    color: #A53F40;
+    margin-right: 0px;
+    font-family: 'Courgette', cursive;
+    font-style: bold;
+    font-size: 20px;
+    padding: 10px;
+    width: 150px;
 }
 .navbar-light .navbar-toggler {
    color: #A53F40;
@@ -75,7 +75,7 @@ h4{
     width: 400px;
 }
 .texto{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     color:#A53F40;
     text-align: left;
@@ -96,7 +96,7 @@ h4{
 }
 .textintro{
     color: white;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     text-align: left;
 }
@@ -130,7 +130,7 @@ h4{
 .subtext{
     font-size: 28px;
     color: #A53F40;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 #booking{
     width: 25%;
@@ -141,7 +141,7 @@ h4{
     margin-top: 50px;
     padding: 20px;
     justify-content: center;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     color:#A53F40;
     text-align: left;
@@ -188,7 +188,7 @@ h4{
 .subtext2{
     font-size: 22px;
     color: #A53F40;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 #bookingerror{
     width: 80%;
@@ -203,7 +203,7 @@ h4{
 .subreferencia{
     font-size: 28px;
     color: grey;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     margin-left: 150px;
 }
 .subreferencia2{
@@ -211,7 +211,7 @@ h4{
     margin-top: 20px;
     font-size: 28px;
     color: #A53F40;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 #booking2{
     width: 25%;
@@ -323,7 +323,7 @@ h4{
     width: 40%;
 }
 .optativo{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
 }
@@ -355,20 +355,20 @@ h4{
     border: solid 1px black;
 }
 .optativo2{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     margin-right: 10px;
 }
 .optativo2b{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     margin-left: 120px;
     margin-top: 10px;
 }
 .optativo2c{
-    font-family: 'Merienda', cursive;
+    font-family:'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     margin-left: 120px;
@@ -386,20 +386,20 @@ h4{
     width: 69%;
 }
 .optativo3{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     margin-right: 10px;
     margin-top: 10px;
 }
 .optativo3b{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     margin-left: 120px;
 }
 .optativo3c{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     margin-left: 120px;
@@ -434,7 +434,7 @@ h4{
 }
 /*VOZ Y TONO*/
 .voz{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     color:#A53F40;
     text-align: justify;
@@ -458,14 +458,14 @@ h4{
     margin-left: 500px;
 }
 .textomood{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:#A53F40;
     text-align: center;
     margin-left: 30px;
 }
 .textomood2{
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 22px;
     color:white;
     text-align: center;
@@ -496,7 +496,7 @@ h4{
     color: white;
     text-decoration: none;
     font-size: 18px;
-    font-family: 'Merienda', cursive;
+    font-family: 'Raleway', sans-serif;
     padding: 15px;
     border:2px solid #A53F40;
     border-radius: 30px;
