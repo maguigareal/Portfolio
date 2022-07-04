@@ -675,6 +675,7 @@ h4{
         margin: 0px;
         margin-bottom: 20px;
         margin-top: 20px;
+        padding: 0%;
     }
     #atras a{
         text-decoration: none;
@@ -713,7 +714,7 @@ h4{
     #despues img{
         width: 10%;
         margin-left: 0px;
-        margin-right: 0px;
+        margin-right: 5px;
         margin-bottom: 0px;
         margin-top: 0px;
     }
