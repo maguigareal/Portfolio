@@ -680,6 +680,7 @@ h4{
         text-decoration: none;
         color: #A53F40;
         margin: 0px;
+        font-size: 18px;
     }
     #atras a:hover{
         text-decoration: underline;
@@ -702,6 +703,7 @@ h4{
         text-decoration: none;
         color: #A53F40;
         margin: 0px;
+        font-size: 18px;
     }
     #despues a:hover{
         text-decoration: underline;
@@ -736,6 +738,9 @@ h4{
     .card{
         border: white;
     }
+    #cardbody{
+        margin-top: -50px;
+    }
     #h4{
         font-family: 'Courgette', cursive;
         font-size: 22px;
@@ -758,7 +763,8 @@ h4{
         width: 90%;
         margin-bottom: 30px;
         margin-top: 30px;
-        margin-left: 0px;
+        margin-left: -20px;
+        justify-content: center;
     }
     /*LISTA DE PROBLEMAS*/
     #lista3{
@@ -769,7 +775,7 @@ h4{
     #num{
         width: 20%;
         margin-top: 0px;
-        margin-left: 150px;
+        margin-left: 130px;
         text-align: center;
         justify-content: center;
     }
@@ -790,8 +796,8 @@ h4{
         width: 350px;
     }
     #h3{
-        margin-top: -50px;
-        margin-left: -20px;
+        margin-top: 0px;
+        margin-left: 0px;
         text-align: left;
         padding-right: 0px;
         width: 300px;
@@ -838,7 +844,7 @@ h4{
         margin-left: 50px;
     }
     #grafico4{
-        width: 110%;
+        width: 120%;
         margin-top: 50px;
     }
     #grafico5{
