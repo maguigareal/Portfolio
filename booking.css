@@ -570,7 +570,6 @@ h4{
         width: 300px;
     }
     .texto{
-        font-family: 'Merienda', cursive;
         font-size: 18px;
         color:#A53F40;
         text-align: left;
@@ -639,7 +638,6 @@ h4{
     }
     .textintro{
         color: white;
-        font-family: 'Merienda', cursive;
         font-size: 18px;
         text-align: left;
     }
@@ -683,7 +681,6 @@ h4{
     .subtext{
         font-size: 28px;
         color: #A53F40;
-        font-family: 'Merienda', cursive;
         text-align: center;
         margin-left: 30px;
     }
@@ -708,7 +705,6 @@ h4{
         margin-top: 50px;
         padding: 5px;
         justify-content: center;
-        font-family: 'Merienda', cursive;
         font-size: 18px;
         color:#A53F40;
         text-align: left;
@@ -765,7 +761,6 @@ h4{
     .subtext2{
         font-size: 22px;
         color: #A53F40;
-        font-family: 'Merienda', cursive;
         margin-left: -30px;
         text-align: left;
     }
@@ -786,7 +781,6 @@ h4{
     .subreferencia{
         font-size: 28px;
         color: grey;
-        font-family: 'Merienda', cursive;
         margin-left: 150px;
         margin-bottom: 80px;
     }
@@ -795,7 +789,6 @@ h4{
         margin-top: 20px;
         font-size: 28px;
         color: #A53F40;
-        font-family: 'Merienda', cursive;
     }
     #booking2{
         width: 25%;
@@ -922,7 +915,6 @@ h4{
     width: 30%;
 }
 .optativo{
-    font-family: 'Merienda', cursive;
     font-size: 28px;
     color:#A53F40;
     margin-top: 20px;
@@ -959,7 +951,6 @@ h4{
     margin-left: 100px;
 }
 .optativo2{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-right: 10px;
@@ -967,7 +958,6 @@ h4{
     text-align: center;
 }
 .optativo2b{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-left: 0px;
@@ -976,7 +966,6 @@ h4{
     text-align: center;
 }
 .optativo2c{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-left: 0px;
@@ -997,14 +986,12 @@ h4{
     margin-left: 100px;
 }
 .optativo3{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-right: 0px;
     margin-top: 10px;
 }
 .optativo3b{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-left: 0px;
@@ -1012,7 +999,6 @@ h4{
     text-align: center;
 }
 .optativo3c{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     margin-left: 0px;
@@ -1056,7 +1042,6 @@ h4{
     margin-top: -60px;
 }
 .voz{
-    font-family: 'Merienda', cursive;
     font-size: 18px;
     color:#A53F40;
     text-align: justify;
@@ -1080,14 +1065,12 @@ h4{
     margin-left: 10px;
 }
 .textomood{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:#A53F40;
     text-align: center;
     margin-left: 30px;
 }
 .textomood2{
-    font-family: 'Merienda', cursive;
     font-size: 22px;
     color:white;
     text-align: center;
@@ -1122,7 +1105,6 @@ h4{
     color: white;
     text-decoration: none;
     font-size: 18px;
-    font-family: 'Merienda', cursive;
     padding: 15px;
     border:2px solid #A53F40;
     border-radius: 30px;
