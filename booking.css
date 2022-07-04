@@ -593,7 +593,7 @@ h4{
     /*INVESTIGACION*/
     .ex{
         color: #A53F40;
-        margin-left: 40px;
+        margin-left: 0px;
         text-align: left;
         font-size: 30px;
         text-decoration: underline;
@@ -601,7 +601,7 @@ h4{
     .bo{
         color: #A53F40;
         text-align: left;
-        margin-left: 40px;
+        margin-left: 0px;
         font-size: 30px;
         text-decoration: underline;
     }
@@ -642,7 +642,7 @@ h4{
         text-align: left;
     }
     #h3{
-        margin-left: 0px;
+        margin-left: -20px;
         margin-top: 40px;
         text-align: left;
         padding-right: 0px;
