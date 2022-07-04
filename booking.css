@@ -866,12 +866,13 @@ h4{
         margin-top: 20px;
         margin-left: 0px;
         margin-right: 0px;
+        padding-right: -20px;
     }
     #despues a{
         text-decoration: none;
         color: #A53F40;
         margin: 0px;
-        margin-right: -10px;
+        margin-right: 0px;
         font-size: 20px;
     }
     #despues a:hover{
@@ -880,7 +881,7 @@ h4{
     #despues img{
         width: 10%;
         margin-left: 0px;
-        margin-right: -20px;
+        margin-right: 0px;
         margin-bottom: 0px;
         margin-top: 0px;
     }
