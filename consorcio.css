@@ -676,9 +676,6 @@ h4{
     #final{
         margin-left: 0px;
     }
-    #otravuelta{
-        width: 350px;
-    }
     #atras,h3,img{
         display: inline-block;
         text-align: left;
@@ -699,7 +696,7 @@ h4{
     #atras img{
         width: 10%;
         margin-right: 0px;
-        margin-left: 0px;
+        margin-left: 5px;
         margin-bottom: 0px;
         margin-top: 0px;
     }
@@ -708,7 +705,7 @@ h4{
         text-align: right;
         text-decoration: none;
         margin-right: 0px;
-        margin-left: -10px;
+        margin-left: 0px;
         margin-bottom: 20px;
         margin-top: 20px;
         padding: 0px;
