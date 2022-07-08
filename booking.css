@@ -847,7 +847,7 @@ h4{
         width: 576px;
     }
     #otravuelta{
-        width: 576px;
+        width: 350px;
     }
     #atras,h3,img{
         display: inline-block;
@@ -879,7 +879,7 @@ h4{
         text-align: right;
         text-decoration: none;
         margin-right: 0px;
-        margin-left: -200px;
+        margin-left: 0px;
         margin-bottom: 20px;
         margin-top: 20px;
         padding: 0%;
