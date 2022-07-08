@@ -860,6 +860,7 @@ h4{
     #atras a{
         text-decoration: none;
         color: #A53F40;
+        width: 50px;
         margin: 0px;
         font-size: 19px;
     }
@@ -877,7 +878,7 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        width: 150px;
+        width: 200px;
         margin: 0px;
         margin-bottom: 20px;
         margin-top: 20px;
