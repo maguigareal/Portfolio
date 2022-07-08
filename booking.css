@@ -853,7 +853,7 @@ h4{
         display: inline-block;
         text-align: left;
         margin-right: 0px;
-        margin-left: -200px;
+        margin-left: 0px;
         margin-bottom: 20px;
         margin-top: 20px;
         padding: 0%;
@@ -878,7 +878,8 @@ h4{
         display: inline-block;
         text-align: right;
         text-decoration: none;
-        margin: 0px;
+        margin-right: 0px;
+        margin-left: -200px;
         margin-bottom: 20px;
         margin-top: 20px;
         padding: 0%;
