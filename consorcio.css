@@ -688,7 +688,7 @@ h4{
         text-decoration: none;
         color: #A53F40;
         margin: 0px;
-        font-size: 19px;
+        font-size: 18px;
     }
     #atras a:hover{
         text-decoration: underline;
@@ -714,7 +714,8 @@ h4{
         text-decoration: none;
         color: #A53F40;
         margin: 0px;
-        font-size: 19px;
+        margin-right: 10px;
+        font-size: 18px;
     }
     #despues a:hover{
         text-decoration: underline;
