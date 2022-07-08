@@ -852,6 +852,7 @@ h4{
     #atras,h3,img{
         display: inline-block;
         text-align: left;
+        width: 150px;
         margin: 0px;
         margin-bottom: 20px;
         margin-top: 20px;
