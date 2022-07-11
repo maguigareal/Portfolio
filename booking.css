@@ -265,12 +265,12 @@ h4{
 #atras a:hover{
     text-decoration: underline;
 }
-#atras img{
-    width: 5%;
+#flechita{
+    width: 2%;
     margin-right: 10px;
     margin-bottom: 10px;
 }
-#flechita{
+#atras img{
     width: 5%;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -491,10 +491,11 @@ h4{
 }
 #cuadromood{
     background-color: rgba(204, 102, 103, 0.67);
+    justify-content: center;
     border-radius: 20px;
-    width: 350px;
+    width: 800px;
     margin-top: 50px;
-    margin-left: 0px;
+    margin-left: 350px;
 }
 /*FLUJOS*/
 #descargar2{
