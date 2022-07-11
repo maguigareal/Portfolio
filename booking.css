@@ -1080,7 +1080,7 @@ h4{
     }
     /*VOZ Y TONO*/
     #vozytono h2{
-        margin-top: -60px;
+        margin-top: -80px;
     }
     .voz{
         font-size: 18px;
@@ -1103,13 +1103,13 @@ h4{
         border: solid 1px #A53F40;
         width: 300px;
         text-align: center;
-        margin-left: 10px;
+        margin-left: 20px;
     }
     .textomood{
         font-size: 22px;
         color:#A53F40;
         text-align: center;
-        margin-left: 30px;
+        margin-left: 0px;
     }
     .textomood2{
         font-size: 22px;
