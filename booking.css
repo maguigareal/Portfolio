@@ -270,6 +270,11 @@ h4{
     margin-right: 10px;
     margin-bottom: 10px;
 }
+#flechita{
+    width: 5%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
 #despues,h3,img{
     display: inline-block;
     text-align: right;
@@ -874,6 +879,13 @@ h4{
         margin-bottom: 0px;
         margin-top: 0px;
     }
+    #flechita{
+        width: 10%;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
     #despues,h3,img{
         display: inline-block;
         text-align: right;
@@ -1048,7 +1060,7 @@ h4{
         width: 300px;
     }
     #altura{
-        margin-top: -80px;
+        margin-top: -60px;
         margin-bottom: -30px;
     }
     #persona{
