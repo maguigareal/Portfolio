@@ -699,7 +699,7 @@ h4{
     }
     .no{
         visibility: hidden;
-        width: 20px;
+        width: 0px;
         height: 0px;
     }
     #no{
@@ -925,6 +925,9 @@ h4{
         padding-right: 5px;
     }
     /*PRODUCTO*/
+    #up{
+        margin-top: -80px;
+    }
     #mining{
         margin-bottom: 50px;
     }
@@ -1043,6 +1046,10 @@ h4{
     .nombre{
         color: #A53F40;
         width: 300px;
+    }
+    #altura{
+        margin-top: -80px;
+        margin-bottom: -100px;
     }
     #persona{
         height: 600px;
