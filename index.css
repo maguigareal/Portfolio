@@ -418,7 +418,7 @@ h3{
     #bonus{
         background-color: rgba(204, 102, 103, 0.67);
         margin-top: 60px;
-        height: 250px;
+        height: 550px;
         max-width: 1024px;
     }
     .titulo3{
@@ -456,7 +456,6 @@ h3{
     }
     #trabajos{
         margin-top: 100px;
-        height: 150px;
     }
     /*FOOTER*/
     #contacto{
